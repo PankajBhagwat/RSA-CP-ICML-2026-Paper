@@ -122,15 +122,3 @@ pooled conformal heuristic.
 calibration scores to the reference-score scale, candidate ranks after
 alignment, and Beta-Binomial rank-window calibration.
 
-## Checks
-
-`checks/method_check.R` scans the simulation source code and verifies that the
-old heuristic implementation is absent from `R/` and `experiments/`, while the
-RSA-CP and SPI source files contain the expected score-level implementation
-components.
-
-`checks/reproduce_check.R` verifies that all expected CSVs, figures, and logs
-exist after a full run.
-
-If runtime is too long, reduce `n_trials` in `R/simulation_helpers.R` for a
-quick smoke test, then restore it before generating paper results.
