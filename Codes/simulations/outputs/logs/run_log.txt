@@ -1,0 +1,60 @@
+2026-05-28 23:03:34 | RSA-CP simulation run started. 
+2026-05-28 23:03:34 | Seed =  20260529 
+2026-05-28 23:03:34 | Trials =  100 
+2026-05-28 23:03:34 | alpha =  0.05 ; beta =  0.4 
+2026-05-28 23:03:35 | Figure 3: reference/synthetic-size experiment started. 
+2026-05-28 23:03:38 | Figure 3 trial  10  of  100 
+2026-05-28 23:03:41 | Figure 3 trial  20  of  100 
+2026-05-28 23:03:44 | Figure 3 trial  30  of  100 
+2026-05-28 23:03:48 | Figure 3 trial  40  of  100 
+2026-05-28 23:03:51 | Figure 3 trial  50  of  100 
+2026-05-28 23:03:54 | Figure 3 trial  60  of  100 
+2026-05-28 23:03:57 | Figure 3 trial  70  of  100 
+2026-05-28 23:04:01 | Figure 3 trial  80  of  100 
+2026-05-28 23:04:04 | Figure 3 trial  90  of  100 
+2026-05-28 23:04:07 | Figure 3 trial  100  of  100 
+2026-05-28 23:04:08 | Figure 3: outputs written. 
+2026-05-28 23:04:09 | Figure 6: generator-noise stability experiment started. 
+2026-05-28 23:04:15 | Figure 6 trial  10  of  100 
+2026-05-28 23:04:21 | Figure 6 trial  20  of  100 
+2026-05-28 23:04:28 | Figure 6 trial  30  of  100 
+2026-05-28 23:04:35 | Figure 6 trial  40  of  100 
+2026-05-28 23:04:41 | Figure 6 trial  50  of  100 
+2026-05-28 23:04:48 | Figure 6 trial  60  of  100 
+2026-05-28 23:04:55 | Figure 6 trial  70  of  100 
+2026-05-28 23:05:02 | Figure 6 trial  80  of  100 
+2026-05-28 23:05:08 | Figure 6 trial  90  of  100 
+2026-05-28 23:05:15 | Figure 6 trial  100  of  100 
+2026-05-28 23:05:16 | Figure 6: outputs written. 
+2026-05-28 23:05:16 | Figure 7 left: calibration-size experiment started. 
+2026-05-28 23:05:16 | Figure 7 calibration size m =  20 
+2026-05-28 23:05:24 | Figure 7 calibration size m =  30 
+2026-05-28 23:05:34 | Figure 7 calibration size m =  40 
+2026-05-28 23:05:46 | Figure 7 calibration size m =  80 
+2026-05-28 23:06:08 | Figure 7 calibration size m =  160 
+2026-05-28 23:06:47 | Figure 7 right: score-distribution boxplot experiment started. 
+2026-05-28 23:06:47 | Figure 7 distribution trial  10  of  100 
+2026-05-28 23:06:48 | Figure 7 distribution trial  20  of  100 
+2026-05-28 23:06:48 | Figure 7 distribution trial  30  of  100 
+2026-05-28 23:06:49 | Figure 7 distribution trial  40  of  100 
+2026-05-28 23:06:49 | Figure 7 distribution trial  50  of  100 
+2026-05-28 23:06:50 | Figure 7 distribution trial  60  of  100 
+2026-05-28 23:06:50 | Figure 7 distribution trial  70  of  100 
+2026-05-28 23:06:51 | Figure 7 distribution trial  80  of  100 
+2026-05-28 23:06:51 | Figure 7 distribution trial  90  of  100 
+2026-05-28 23:06:52 | Figure 7 distribution trial  100  of  100 
+2026-05-28 23:06:53 | Figure 7: combined outputs written. 
+2026-05-28 23:06:53 | Shock probability experiment started. 
+2026-05-28 23:06:53 | Shock design: p = 0 uses matched real/reference score distributions;  p > 0 corrupts only reference scores with positive tail shocks. 
+2026-05-28 23:06:54 | Shock trial  10  of  100 
+2026-05-28 23:06:55 | Shock trial  20  of  100 
+2026-05-28 23:06:55 | Shock trial  30  of  100 
+2026-05-28 23:06:56 | Shock trial  40  of  100 
+2026-05-28 23:06:56 | Shock trial  50  of  100 
+2026-05-28 23:06:57 | Shock trial  60  of  100 
+2026-05-28 23:06:58 | Shock trial  70  of  100 
+2026-05-28 23:06:58 | Shock trial  80  of  100 
+2026-05-28 23:06:59 | Shock trial  90  of  100 
+2026-05-28 23:07:00 | Shock trial  100  of  100 
+2026-05-28 23:07:00 | Shock probability: outputs written. 
+2026-05-28 23:07:00 | RSA-CP simulation run completed. 

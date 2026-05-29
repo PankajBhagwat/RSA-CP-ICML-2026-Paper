@@ -1,0 +1,4 @@
+Old-method check for SplitConformalRealPlusOTScore
+
+PASS: legacy ot_map_scores may exist only as an unused helper for older baselines.
+PASS: no old OT-score augmentation / weighted-quantile / mean-scaling logic found in the active RSA-CP class.

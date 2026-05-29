@@ -1,0 +1,961 @@
+figure,dataset,Method,alpha,target_coverage,n_cal,n_ref,n_test,run_id,run_seed,Coverage,Length,metric_name,method_core,qhat
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,0,2492284,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,0,2492284,0.8934,2.3150666666666666,prediction_set_size,standard_reference,0.9925268730224189
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,0,2492284,0.8934666666666666,2.3162,prediction_set_size,spi_fast_form,0.9925410805244823
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,0,2492284,0.996,29.954533333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,1,6438288,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,1,6438288,0.902,2.7053333333333334,prediction_set_size,standard_reference,0.9957881648882239
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,1,6438288,0.986,13.707466666666667,prediction_set_size,spi_fast_form,0.9999970513802754
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,1,6438288,0.9376,20.2786,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,2,275592,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,2,275592,0.9012666666666667,2.7276666666666665,prediction_set_size,standard_reference,0.9958777566146167
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,2,275592,0.9602666666666667,7.5103333333333335,prediction_set_size,spi_fast_form,0.9999192877007196
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,2,275592,0.9988666666666667,29.918533333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,3,2731692,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,3,2731692,0.8768,2.0700666666666665,prediction_set_size,standard_reference,0.9883324814276624
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,3,2731692,0.9807333333333333,12.318066666666667,prediction_set_size,spi_fast_form,0.9999938448041696
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,3,2731692,0.9238,20.382466666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,4,1441594,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,4,1441594,0.9052,2.6802,prediction_set_size,standard_reference,0.9956450667008742
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,4,1441594,0.9176666666666666,3.301266666666667,prediction_set_size,spi_fast_form,0.9979666198847645
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,4,1441594,0.9922666666666666,29.568666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,5,7551662,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,5,7551662,0.9044666666666666,2.6940666666666666,prediction_set_size,standard_reference,0.9957138842376099
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,5,7551662,0.9066666666666666,2.7752,prediction_set_size,spi_fast_form,0.9961350753436905
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,5,7551662,0.9913333333333333,29.967533333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,6,4731878,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,6,4731878,0.9052,2.792,prediction_set_size,standard_reference,0.9961464738205978
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,6,4731878,0.9406666666666667,5.503266666666667,prediction_set_size,spi_fast_form,0.999701744919819
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,6,4731878,0.9877333333333334,28.895266666666668,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,7,9486483,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,7,9486483,0.9108666666666667,2.920733333333333,prediction_set_size,standard_reference,0.9968046311342741
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,7,9486483,0.9492666666666667,6.104133333333333,prediction_set_size,spi_fast_form,0.9998068149360478
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,7,9486483,0.9724666666666667,27.622333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,8,857393,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,8,857393,0.8983333333333333,2.5292,prediction_set_size,standard_reference,0.9944879740941351
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,8,857393,0.8984,2.5334666666666665,prediction_set_size,spi_fast_form,0.9945224668483543
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,8,857393,0.9989333333333333,29.982733333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,9,4233261,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,9,4233261,0.9076,2.9441333333333333,prediction_set_size,standard_reference,0.9968208811823831
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,9,4233261,0.9678,8.802933333333334,prediction_set_size,spi_fast_form,0.9999600558557984
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,9,4233261,0.9312,23.8176,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,10,9504621,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,10,9504621,0.8950666666666667,2.454266666666667,prediction_set_size,standard_reference,0.9937072862071046
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,10,9504621,0.9732,9.805733333333333,prediction_set_size,spi_fast_form,0.9999768621010648
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,10,9504621,0.9206,22.624466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,11,5118207,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,11,5118207,0.8858666666666667,2.1931333333333334,prediction_set_size,standard_reference,0.9907863112351181
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,11,5118207,0.9976,27.5104,prediction_set_size,spi_fast_form,0.9999992845033506
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,11,5118207,0.9784,12.956266666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,12,8690244,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,12,8690244,0.9022666666666667,2.6734,prediction_set_size,standard_reference,0.9955249974428971
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,12,8690244,0.9796666666666667,11.926733333333333,prediction_set_size,spi_fast_form,0.9999921874872741
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,12,8690244,0.9421333333333334,21.813533333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,13,8229426,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,13,8229426,0.9105333333333333,2.8468,prediction_set_size,standard_reference,0.9964093624686606
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,13,8229426,0.9109333333333334,2.8714,prediction_set_size,spi_fast_form,0.9965162337050071
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,13,8229426,0.9879333333333333,29.739466666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,14,348525,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,14,348525,0.9109333333333334,3.0922666666666667,prediction_set_size,standard_reference,0.9972869104499671
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,14,348525,0.9658,8.434666666666667,prediction_set_size,spi_fast_form,0.9999504601632341
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,14,348525,0.9992,29.7978,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,15,8277021,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,15,8277021,0.9067333333333333,2.638133333333333,prediction_set_size,standard_reference,0.995339459162604
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,15,8277021,0.9074,2.6582,prediction_set_size,spi_fast_form,0.9954653675218996
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,15,8277021,0.99,29.9678,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,16,3118312,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,16,3118312,0.8884,2.2476666666666665,prediction_set_size,standard_reference,0.9913883802081653
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,16,3118312,0.9786,11.126533333333333,prediction_set_size,spi_fast_form,0.9999883097661856
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,16,3118312,0.9926,28.146333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,17,4091990,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,17,4091990,0.9114,2.8208,prediction_set_size,standard_reference,0.9965313407416473
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,17,4091990,0.9116,2.8415333333333335,prediction_set_size,spi_fast_form,0.996629613854758
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,17,4091990,0.999,29.9928,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,18,2569919,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,18,2569919,0.8974,2.626533333333333,prediction_set_size,standard_reference,0.9952324040617655
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,18,2569919,0.9734666666666667,10.253333333333334,prediction_set_size,spi_fast_form,0.9999817585626297
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,18,2569919,0.9129333333333334,22.062333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,10,1000,15000,19,5495936,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,10,1000,15000,19,5495936,0.9005333333333333,2.6234,prediction_set_size,standard_reference,0.9952320191978268
+Figure 5,ImageNet,SPI,0.05,0.95,10,1000,15000,19,5495936,0.9952666666666666,26.038666666666668,prediction_set_size,spi_fast_form,0.9999991035978442
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,10,1000,15000,19,5495936,0.9046,6.5582666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,0,2492284,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,0,2492284,0.8931333333333333,2.312666666666667,prediction_set_size,standard_reference,0.9924873791077301
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,0,2492284,0.8948,2.341066666666667,prediction_set_size,spi_fast_form,0.99281550059823
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,0,2492284,0.8618666666666667,1.8328,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,1,6438288,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,1,6438288,0.9019333333333334,2.707533333333333,prediction_set_size,standard_reference,0.995801843568487
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,1,6438288,0.986,13.709133333333334,prediction_set_size,spi_fast_form,0.9999970513802754
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,1,6438288,0.9241333333333334,4.053,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,2,275592,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,2,275592,0.8982,2.5997333333333335,prediction_set_size,standard_reference,0.9950572056554131
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,2,275592,0.9602666666666667,7.51,prediction_set_size,spi_fast_form,0.9999192877007196
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,2,275592,0.9586666666666667,7.3742,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,3,2731692,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,3,2731692,0.8823333333333333,2.157,prediction_set_size,standard_reference,0.9900222946134286
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,3,2731692,0.9824666666666667,12.914666666666667,prediction_set_size,spi_fast_form,0.9999953978828906
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,3,2731692,0.9823333333333333,12.8358,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,4,1441594,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,4,1441594,0.905,2.6729333333333334,prediction_set_size,standard_reference,0.9955939261945743
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,4,1441594,0.971,9.4554,prediction_set_size,spi_fast_form,0.9999727407147511
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,4,1441594,0.9531333333333334,6.5868,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,5,7551662,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,5,7551662,0.9066666666666666,2.777066666666667,prediction_set_size,standard_reference,0.9961445687129538
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,5,7551662,0.9729333333333333,10.284266666666667,prediction_set_size,spi_fast_form,0.9999824829915102
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,5,7551662,0.8910666666666667,2.3118666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,6,4731878,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,6,4731878,0.9064,2.8192666666666666,prediction_set_size,standard_reference,0.9962886457849359
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,6,4731878,0.9406666666666667,5.5022,prediction_set_size,spi_fast_form,0.999701744919819
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,6,4731878,0.9251333333333334,4.087466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,7,9486483,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,7,9486483,0.9118666666666667,2.9795333333333334,prediction_set_size,standard_reference,0.9970391196348027
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,7,9486483,0.9513333333333334,6.2956666666666665,prediction_set_size,spi_fast_form,0.9998288541844006
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,7,9486483,0.9512,6.284666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,8,857393,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,8,857393,0.8981333333333333,2.522466666666667,prediction_set_size,standard_reference,0.9944306018816217
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,8,857393,0.8985333333333333,2.5412,prediction_set_size,spi_fast_form,0.9945755197851596
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,8,857393,0.8724666666666666,2.0322666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,9,4233261,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,9,4233261,0.9058,2.856733333333333,prediction_set_size,standard_reference,0.9964347670742821
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,9,4233261,0.9676666666666667,8.8036,prediction_set_size,spi_fast_form,0.9999600558557984
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,9,4233261,0.8958,2.526133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,10,9504621,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,10,9504621,0.8959333333333334,2.4708666666666668,prediction_set_size,standard_reference,0.9938913581795339
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,10,9504621,0.9732,9.804666666666666,prediction_set_size,spi_fast_form,0.9999768621010648
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,10,9504621,0.9484666666666667,6.121133333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,11,5118207,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,11,5118207,0.8896666666666667,2.2536,prediction_set_size,standard_reference,0.9916468444780572
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,11,5118207,0.9976,27.5088,prediction_set_size,spi_fast_form,0.9999992845033506
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,11,5118207,0.9762,10.529733333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,12,8690244,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,12,8690244,0.9022,2.6717333333333335,prediction_set_size,standard_reference,0.9955138321975258
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,12,8690244,0.9812666666666666,12.326133333333333,prediction_set_size,spi_fast_form,0.9999936148103509
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,12,8690244,0.9812666666666666,12.2876,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,13,8229426,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,13,8229426,0.9128666666666667,2.9346,prediction_set_size,standard_reference,0.9967810718013758
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,13,8229426,0.9727333333333333,9.436066666666667,prediction_set_size,spi_fast_form,0.9999717881551338
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,13,8229426,0.9388,5.262133333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,14,348525,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,14,348525,0.9087333333333333,2.9928,prediction_set_size,standard_reference,0.9969370431787703
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,14,348525,0.9658,8.4348,prediction_set_size,spi_fast_form,0.9999504601632341
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,14,348525,0.9654666666666667,8.355466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,15,8277021,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,15,8277021,0.9078,2.6661333333333332,prediction_set_size,standard_reference,0.9955165195538215
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,15,8277021,0.9528,6.427,prediction_set_size,spi_fast_form,0.9998411948053925
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,15,8277021,0.8909333333333334,2.2226666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,16,3118312,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,16,3118312,0.8901333333333333,2.2904666666666667,prediction_set_size,standard_reference,0.9919711953789698
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,16,3118312,0.9786,11.127533333333334,prediction_set_size,spi_fast_form,0.9999883097661856
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,16,3118312,0.9724,9.673066666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,17,4091990,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,17,4091990,0.9114,2.8152,prediction_set_size,standard_reference,0.9965066985660128
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,17,4091990,0.9582666666666667,6.769933333333333,prediction_set_size,spi_fast_form,0.9998785362208537
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,17,4091990,0.9266,3.9696,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,18,2569919,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,18,2569919,0.8990666666666667,2.6727333333333334,prediction_set_size,standard_reference,0.9955417806816632
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,18,2569919,0.9856666666666667,13.998,prediction_set_size,spi_fast_form,0.9999973280780777
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,18,2569919,0.9835333333333334,13.3018,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,15,1000,15000,19,5495936,1.0,30.0,prediction_set_size,standard_real,1.0
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,15,1000,15000,19,5495936,0.9026666666666666,2.686733333333333,prediction_set_size,standard_reference,0.9956371169273885
+Figure 5,ImageNet,SPI,0.05,0.95,15,1000,15000,19,5495936,0.9952666666666666,26.0394,prediction_set_size,spi_fast_form,0.9999991035978442
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,15,1000,15000,19,5495936,0.9256666666666666,4.251133333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,0,2492284,0.9242666666666667,3.6712,prediction_set_size,standard_real,0.998656226988126
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,0,2492284,0.8922,2.2878666666666665,prediction_set_size,standard_reference,0.9921860953935329
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,0,2492284,0.9062,2.6795333333333335,prediction_set_size,spi_fast_form,0.9956761861066507
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,0,2492284,0.9172666666666667,3.1490666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,1,6438288,0.986,13.707266666666667,prediction_set_size,standard_real,0.9999970513802754
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,1,6438288,0.9008,2.6619333333333333,prediction_set_size,standard_reference,0.9955407711155403
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,1,6438288,0.9022,2.7114,prediction_set_size,spi_fast_form,0.9958273552386397
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,1,6438288,0.9160666666666667,3.4122,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,2,275592,0.9602,7.508333333333334,prediction_set_size,standard_real,0.9999192877007196
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,2,275592,0.9010666666666667,2.7127333333333334,prediction_set_size,standard_reference,0.9957978614745914
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,2,275592,0.9503333333333334,6.474466666666666,prediction_set_size,spi_fast_form,0.9998461986119817
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,2,275592,0.957,7.156133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,3,2731692,0.9824666666666667,12.913533333333334,prediction_set_size,standard_real,0.9999953978828906
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,3,2731692,0.8821333333333333,2.1506,prediction_set_size,standard_reference,0.9899271671093313
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,3,2731692,0.9808,12.3186,prediction_set_size,spi_fast_form,0.9999938448041696
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,3,2731692,0.982,12.7032,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,4,1441594,0.971,9.4566,prediction_set_size,standard_real,0.9999727407147511
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,4,1441594,0.9054666666666666,2.6964,prediction_set_size,standard_reference,0.9957390772745003
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,4,1441594,0.9176,3.3017333333333334,prediction_set_size,spi_fast_form,0.9979666198847645
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,4,1441594,0.9303333333333333,4.601666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,5,7551662,0.9729333333333333,10.283266666666666,prediction_set_size,standard_real,0.9999824829915102
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,5,7551662,0.9092666666666667,2.9257333333333335,prediction_set_size,standard_reference,0.9968292848129401
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,5,7551662,0.9114666666666666,3.024,prediction_set_size,spi_fast_form,0.9971804690370085
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,5,7551662,0.8858666666666667,2.1973333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,6,4731878,0.9406666666666667,5.4996,prediction_set_size,standard_real,0.999701744919819
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,6,4731878,0.9053333333333333,2.7978666666666667,prediction_set_size,standard_reference,0.9961825616590876
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,6,4731878,0.9059333333333334,2.8066666666666666,prediction_set_size,spi_fast_form,0.9962286125861434
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,6,4731878,0.9106666666666666,3.0115333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,7,9486483,0.9513333333333334,6.2956666666666665,prediction_set_size,standard_real,0.9998288541844006
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,7,9486483,0.9107333333333333,2.9092666666666664,prediction_set_size,standard_reference,0.9967654663215872
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,7,9486483,0.9493333333333334,6.1034,prediction_set_size,spi_fast_form,0.9998068149360478
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,7,9486483,0.9509333333333333,6.2514,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,8,857393,0.8732666666666666,2.0471333333333335,prediction_set_size,standard_real,0.9876936511299216
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,8,857393,0.899,2.5507333333333335,prediction_set_size,standard_reference,0.9946519407595713
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,8,857393,0.9,2.5946,prediction_set_size,spi_fast_form,0.994983516677904
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,8,857393,0.8728666666666667,2.0412666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,9,4233261,0.9676666666666667,8.802266666666666,prediction_set_size,standard_real,0.9999600558557984
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,9,4233261,0.9064666666666666,2.8973333333333335,prediction_set_size,standard_reference,0.9966223803075404
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,9,4233261,0.9088666666666667,3.0342666666666664,prediction_set_size,spi_fast_form,0.9971390145273675
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,9,4233261,0.9255333333333333,4.387266666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,10,9504621,0.9732,9.803533333333334,prediction_set_size,standard_real,0.9999768621010648
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,10,9504621,0.8984,2.5445333333333333,prediction_set_size,standard_reference,0.9945451044899005
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,10,9504621,0.9201333333333334,3.6722,prediction_set_size,spi_fast_form,0.9985942163862636
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,10,9504621,0.935,5.007333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,11,5118207,0.9976,27.507266666666666,prediction_set_size,standard_real,0.9999992845033506
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,11,5118207,0.8896666666666667,2.2525333333333335,prediction_set_size,standard_reference,0.991625674837014
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,11,5118207,0.955,6.635666666666666,prediction_set_size,spi_fast_form,0.9998615678971114
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,11,5118207,0.9700666666666666,8.774733333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,12,8690244,0.9812666666666666,12.326133333333333,prediction_set_size,standard_real,0.9999936148103509
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,12,8690244,0.9025333333333333,2.6900666666666666,prediction_set_size,standard_reference,0.9956184726278839
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,12,8690244,0.9796666666666667,11.926866666666667,prediction_set_size,spi_fast_form,0.9999921874872741
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,12,8690244,0.9811333333333333,12.2208,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,13,8229426,0.9726666666666667,9.438333333333333,prediction_set_size,standard_real,0.9999717881551338
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,13,8229426,0.9102666666666667,2.8364,prediction_set_size,standard_reference,0.9963448475969264
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,13,8229426,0.9538666666666666,6.592333333333333,prediction_set_size,spi_fast_form,0.999854525592385
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,13,8229426,0.9678,8.371266666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,14,348525,0.9916666666666667,22.465333333333334,prediction_set_size,standard_real,0.9999987395211994
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,14,348525,0.9085333333333333,2.9696666666666665,prediction_set_size,standard_reference,0.9968527956368363
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,14,348525,0.9658666666666667,8.435533333333334,prediction_set_size,spi_fast_form,0.9999504601632341
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,14,348525,0.977,11.162933333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,15,8277021,0.9528,6.425466666666667,prediction_set_size,standard_real,0.9998411948053925
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,15,8277021,0.9059333333333334,2.6214,prediction_set_size,standard_reference,0.9952359061812823
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,15,8277021,0.9081333333333333,2.678733333333333,prediction_set_size,spi_fast_form,0.9955943090583312
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,15,8277021,0.8805333333333333,2.0488,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,16,3118312,0.9786,11.127466666666667,prediction_set_size,standard_real,0.9999883097661856
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,16,3118312,0.8864,2.2088666666666668,prediction_set_size,standard_reference,0.9908224171727557
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,16,3118312,0.9533333333333334,6.5596,prediction_set_size,spi_fast_form,0.9998509817428184
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,16,3118312,0.9661333333333333,8.122933333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,17,4091990,0.9582,6.768933333333333,prediction_set_size,standard_real,0.9998785362208537
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,17,4091990,0.9114,2.8186,prediction_set_size,standard_reference,0.9965249167350263
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,17,4091990,0.9116666666666666,2.8407333333333336,prediction_set_size,spi_fast_form,0.9966320055373393
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,17,4091990,0.9064666666666666,2.6164666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,18,2569919,0.9856666666666667,13.9988,prediction_set_size,standard_real,0.9999973280780777
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,18,2569919,0.8957333333333334,2.5688,prediction_set_size,standard_reference,0.9948149826420171
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,18,2569919,0.9782666666666666,11.592466666666667,prediction_set_size,spi_fast_form,0.9999909452261143
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,18,2569919,0.9819333333333333,13.025,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,20,1000,15000,19,5495936,0.9952666666666666,26.038066666666666,prediction_set_size,standard_real,0.9999991035978442
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,20,1000,15000,19,5495936,0.9022666666666667,2.6783333333333332,prediction_set_size,standard_reference,0.9955807652804831
+Figure 5,ImageNet,SPI,0.05,0.95,20,1000,15000,19,5495936,0.903,2.7036,prediction_set_size,spi_fast_form,0.9957418376722494
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,20,1000,15000,19,5495936,0.9180666666666667,3.5984,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,0,2492284,0.9242666666666667,3.6723333333333334,prediction_set_size,standard_real,0.998656226988126
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,0,2492284,0.8938,2.326,prediction_set_size,standard_reference,0.9926464636188062
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,0,2492284,0.8938,2.326,prediction_set_size,spi_fast_form,0.9926474274268291
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,0,2492284,0.9052666666666667,2.6524666666666668,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,1,6438288,0.986,13.7072,prediction_set_size,standard_real,0.9999970513802754
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,1,6438288,0.9004,2.6461333333333332,prediction_set_size,standard_reference,0.9954389348130647
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,1,6438288,0.9004,2.6481333333333335,prediction_set_size,spi_fast_form,0.995453923014736
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,1,6438288,0.9243333333333333,4.0736,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,2,275592,0.9602,7.5058,prediction_set_size,standard_real,0.9999192877007196
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,2,275592,0.9005333333333333,2.6941333333333333,prediction_set_size,standard_reference,0.9956898019126881
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,2,275592,0.9142,3.4108,prediction_set_size,spi_fast_form,0.9981883864524267
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,2,275592,0.9506,6.507733333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,3,2731692,0.9824666666666667,12.914133333333334,prediction_set_size,standard_real,0.9999953978828906
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,3,2731692,0.8822666666666666,2.155466666666667,prediction_set_size,standard_reference,0.9900056070673277
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,3,2731692,0.9215333333333333,3.6966,prediction_set_size,spi_fast_form,0.998637360358431
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,3,2731692,0.9809333333333333,12.3794,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,4,1441594,0.9709333333333333,9.456266666666666,prediction_set_size,standard_real,0.9999727407147511
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,4,1441594,0.9046666666666666,2.6634,prediction_set_size,standard_reference,0.9955348672064536
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,4,1441594,0.9246666666666666,3.9763333333333333,prediction_set_size,spi_fast_form,0.9989828876930887
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,4,1441594,0.9497333333333333,6.288666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,5,7551662,0.9729333333333333,10.282266666666667,prediction_set_size,standard_real,0.9999824829915102
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,5,7551662,0.9046666666666666,2.6978,prediction_set_size,standard_reference,0.9957501589976785
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,5,7551662,0.9167333333333333,3.3828,prediction_set_size,spi_fast_form,0.9981303765454634
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,5,7551662,0.9392,5.331933333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,6,4731878,0.9759333333333333,10.708466666666666,prediction_set_size,standard_real,0.9999856094593468
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,6,4731878,0.906,2.8127333333333335,prediction_set_size,standard_reference,0.996253054234568
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,6,4731878,0.9069333333333334,2.8341333333333334,prediction_set_size,spi_fast_form,0.9963565319025947
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,6,4731878,0.9428,5.7024,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,7,9486483,0.9512666666666667,6.297733333333333,prediction_set_size,standard_real,0.9998288541844006
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,7,9486483,0.9108,2.9201333333333332,prediction_set_size,standard_reference,0.996799490428532
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,7,9486483,0.9356,5.020733333333333,prediction_set_size,spi_fast_form,0.9995786546309753
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,7,9486483,0.9494666666666667,6.1356,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,8,857393,0.8732,2.0465333333333335,prediction_set_size,standard_real,0.9876936511299216
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,8,857393,0.8982,2.5346,prediction_set_size,standard_reference,0.9945318850002522
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,8,857393,0.8985333333333333,2.5458666666666665,prediction_set_size,spi_fast_form,0.9946171136130626
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,8,857393,0.872,2.025733333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,9,4233261,0.9676666666666667,8.800933333333333,prediction_set_size,standard_real,0.9999600558557984
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,9,4233261,0.9061333333333333,2.8854,prediction_set_size,standard_reference,0.9965762497532792
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,9,4233261,0.9075333333333333,2.9478666666666666,prediction_set_size,spi_fast_form,0.9968400187091636
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,9,4233261,0.9101333333333333,3.1064666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,10,9504621,0.9883333333333333,14.418466666666667,prediction_set_size,standard_real,0.999997609166246
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,10,9504621,0.8978666666666667,2.5298,prediction_set_size,standard_reference,0.9944225631941388
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,10,9504621,0.9456,5.8828,prediction_set_size,spi_fast_form,0.9997700309605527
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,10,9504621,0.9734666666666667,9.854133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,11,5118207,0.9976,27.503666666666668,prediction_set_size,standard_real,0.9999992845033506
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,11,5118207,0.8910666666666667,2.2767333333333335,prediction_set_size,standard_reference,0.9919565199656027
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,11,5118207,0.9380666666666667,5.2134,prediction_set_size,spi_fast_form,0.9996336113091724
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,11,5118207,0.9564666666666667,6.7326,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,12,8690244,0.9881333333333333,17.288666666666668,prediction_set_size,standard_real,0.9999982074081462
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,12,8690244,0.9036,2.7264,prediction_set_size,standard_reference,0.9958274533477406
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,12,8690244,0.9797333333333333,11.926466666666666,prediction_set_size,spi_fast_form,0.9999921874872741
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,12,8690244,0.9818,12.5554,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,13,8229426,0.9726,9.439866666666667,prediction_set_size,standard_real,0.9999717881551338
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,13,8229426,0.9118666666666667,2.9030666666666667,prediction_set_size,standard_reference,0.9966555283758347
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,13,8229426,0.913,2.9415333333333336,prediction_set_size,spi_fast_form,0.9968104314932837
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,13,8229426,0.9579333333333333,6.956,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,14,348525,0.9916666666666667,22.4602,prediction_set_size,standard_real,0.9999987395211994
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,14,348525,0.9086666666666666,2.9757333333333333,prediction_set_size,standard_reference,0.9968757706361454
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,14,348525,0.9739333333333333,10.253266666666667,prediction_set_size,spi_fast_form,0.9999816245233288
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,14,348525,0.9768,11.047466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,15,8277021,0.9528,6.427866666666667,prediction_set_size,standard_real,0.9998411948053925
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,15,8277021,0.9072,2.654733333333333,prediction_set_size,standard_reference,0.9954413356242318
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,15,8277021,0.9084,2.6848,prediction_set_size,spi_fast_form,0.9956237689230085
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,15,8277021,0.9166,3.0898666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,16,3118312,0.9786,11.1272,prediction_set_size,standard_real,0.9999883097661856
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,16,3118312,0.8882,2.244466666666667,prediction_set_size,standard_reference,0.9913408732038494
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,16,3118312,0.9533333333333334,6.559466666666666,prediction_set_size,spi_fast_form,0.9998509817428184
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,16,3118312,0.9702,9.001,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,17,4091990,0.9580666666666666,6.766666666666667,prediction_set_size,standard_real,0.9998785362208537
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,17,4091990,0.9110666666666667,2.8093333333333335,prediction_set_size,standard_reference,0.9964852335422125
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,17,4091990,0.9122,2.8694,prediction_set_size,spi_fast_form,0.9967590630398482
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,17,4091990,0.8914666666666666,2.2486,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,18,2569919,0.9902,20.556533333333334,prediction_set_size,standard_real,0.9999985597008164
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,18,2569919,0.8964,2.5954,prediction_set_size,standard_reference,0.9950135245772018
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,18,2569919,0.9783333333333334,11.5946,prediction_set_size,spi_fast_form,0.9999909452261143
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,18,2569919,0.9858666666666667,14.291866666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,30,1000,15000,19,5495936,0.9952666666666666,26.037933333333335,prediction_set_size,standard_real,0.9999991035978442
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,30,1000,15000,19,5495936,0.9034666666666666,2.7182,prediction_set_size,standard_reference,0.9958242068689197
+Figure 5,ImageNet,SPI,0.05,0.95,30,1000,15000,19,5495936,0.9053333333333333,2.7783333333333333,prediction_set_size,spi_fast_form,0.9961304194348135
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,30,1000,15000,19,5495936,0.8951333333333333,2.4585333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,0,2492284,0.9241333333333334,3.6724666666666668,prediction_set_size,standard_real,0.998656226988126
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,0,2492284,0.8935333333333333,2.3193333333333332,prediction_set_size,standard_reference,0.9925673181418987
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,0,2492284,0.9077333333333333,2.7307333333333332,prediction_set_size,spi_fast_form,0.9959558116853063
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,0,2492284,0.9161333333333334,3.0827333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,1,6438288,0.9620666666666666,7.459733333333333,prediction_set_size,standard_real,0.9999165759559586
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,1,6438288,0.9003333333333333,2.6484666666666667,prediction_set_size,standard_reference,0.9954599511004915
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,1,6438288,0.9252,4.180866666666667,prediction_set_size,spi_fast_form,0.999149415180794
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,1,6438288,0.9344,5.0062,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,2,275592,0.9602,7.5054,prediction_set_size,standard_real,0.9999192877007196
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,2,275592,0.8989333333333334,2.6253333333333333,prediction_set_size,standard_reference,0.9952400395842407
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,2,275592,0.9502666666666667,6.4718,prediction_set_size,spi_fast_form,0.9998461986119817
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,2,275592,0.9546666666666667,6.931733333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,3,2731692,0.9825333333333334,12.915733333333334,prediction_set_size,standard_real,0.9999953978828906
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,3,2731692,0.8830666666666667,2.1624,prediction_set_size,standard_reference,0.9901258326895296
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,3,2731692,0.9808666666666667,12.3204,prediction_set_size,spi_fast_form,0.9999938448041696
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,3,2731692,0.982,12.692933333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,4,1441594,0.9464,5.967866666666667,prediction_set_size,standard_real,0.9997884734238395
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,4,1441594,0.9049333333333334,2.675666666666667,prediction_set_size,standard_reference,0.9956064852010345
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,4,1441594,0.9246,3.9760666666666666,prediction_set_size,spi_fast_form,0.9989828876930887
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,4,1441594,0.9335333333333333,4.9334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,5,7551662,0.9392,5.3352,prediction_set_size,standard_real,0.9996690015448743
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,5,7551662,0.9079333333333334,2.8364,prediction_set_size,standard_reference,0.9964367366158314
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,5,7551662,0.9339333333333333,4.880733333333334,prediction_set_size,spi_fast_form,0.9995314805865458
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,5,7551662,0.9376,5.1758,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,6,4731878,0.9406666666666667,5.499066666666667,prediction_set_size,standard_real,0.999701744919819
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,6,4731878,0.9063333333333333,2.8177333333333334,prediction_set_size,standard_reference,0.9962793138094936
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,6,4731878,0.933,4.8962,prediction_set_size,spi_fast_form,0.9995290302192174
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,6,4731878,0.9381333333333334,5.261333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,7,9486483,0.9513333333333334,6.299066666666667,prediction_set_size,standard_real,0.9998288541844006
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,7,9486483,0.9115333333333333,2.9511333333333334,prediction_set_size,standard_reference,0.9969205108394105
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,7,9486483,0.9493333333333334,6.106933333333333,prediction_set_size,spi_fast_form,0.9998068149360478
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,7,9486483,0.9508,6.243333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,8,857393,0.8718666666666667,2.0248666666666666,prediction_set_size,standard_real,0.9872463062740275
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,8,857393,0.8978666666666667,2.525333333333333,prediction_set_size,standard_reference,0.9944577371665149
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,8,857393,0.8730666666666667,2.045933333333333,prediction_set_size,spi_fast_form,0.9876936511299216
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,8,857393,0.8692,1.9834,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,9,4233261,0.9397333333333333,5.621466666666667,prediction_set_size,standard_real,0.9997230243962019
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,9,4233261,0.9082,2.9883333333333333,prediction_set_size,standard_reference,0.9969790087472161
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,9,4233261,0.9094,3.0648,prediction_set_size,spi_fast_form,0.9972467699724169
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,9,4233261,0.9202,3.892333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,10,9504621,0.9732666666666666,9.804133333333333,prediction_set_size,standard_real,0.9999768621010648
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,10,9504621,0.8996,2.5837333333333334,prediction_set_size,standard_reference,0.9948394096915213
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,10,9504621,0.9456,5.8834,prediction_set_size,spi_fast_form,0.9997700309605527
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,10,9504621,0.9574666666666667,7.0044,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,11,5118207,0.956,6.6986,prediction_set_size,standard_real,0.9998668218927593
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,11,5118207,0.8858,2.1916,prediction_set_size,standard_reference,0.99075164920598
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,11,5118207,0.9550666666666666,6.635933333333333,prediction_set_size,spi_fast_form,0.9998615678971114
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,11,5118207,0.9558666666666666,6.6698,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,12,8690244,0.9813333333333333,12.323933333333333,prediction_set_size,standard_real,0.9999936148103509
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,12,8690244,0.9024666666666666,2.6868666666666665,prediction_set_size,standard_reference,0.995600621354248
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,12,8690244,0.9797333333333333,11.9246,prediction_set_size,spi_fast_form,0.9999921874872741
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,12,8690244,0.9810666666666666,12.2084,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,13,8229426,0.9702666666666667,8.830533333333333,prediction_set_size,standard_real,0.9999607538614195
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,13,8229426,0.9118,2.8996666666666666,prediction_set_size,standard_reference,0.9966370432649846
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,13,8229426,0.9584666666666667,7.005733333333334,prediction_set_size,spi_fast_form,0.9998873073128163
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,13,8229426,0.9664,8.1684,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,14,348525,0.9754,10.670933333333334,prediction_set_size,standard_real,0.9999853257339438
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,14,348525,0.9076,2.9314,prediction_set_size,standard_reference,0.9967102796700382
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,14,348525,0.9739333333333333,10.250466666666666,prediction_set_size,spi_fast_form,0.9999816245233288
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,14,348525,0.9748,10.514733333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,15,8277021,0.9523333333333334,6.373333333333333,prediction_set_size,standard_real,0.9998354454032237
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,15,8277021,0.9068666666666667,2.6479333333333335,prediction_set_size,standard_reference,0.9953970185783998
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,15,8277021,0.9161333333333334,3.0512,prediction_set_size,spi_fast_form,0.9972692595395182
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,15,8277021,0.923,3.6488,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,16,3118312,0.9692666666666667,8.852,prediction_set_size,standard_real,0.9999608470794293
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,16,3118312,0.8882,2.2430666666666665,prediction_set_size,standard_reference,0.9913175727440033
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,16,3118312,0.9532666666666667,6.560666666666667,prediction_set_size,spi_fast_form,0.9998509817428184
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,16,3118312,0.9636666666666667,7.731333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,17,4091990,0.9581333333333333,6.766333333333334,prediction_set_size,standard_real,0.9998785362208537
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,17,4091990,0.9108,2.7876666666666665,prediction_set_size,standard_reference,0.996386737305072
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,17,4091990,0.9122,2.8646666666666665,prediction_set_size,spi_fast_form,0.9967393969684498
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,17,4091990,0.928,4.121066666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,18,2569919,0.9902666666666666,20.554066666666667,prediction_set_size,standard_real,0.9999985597008164
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,18,2569919,0.8972,2.6096666666666666,prediction_set_size,standard_reference,0.9951130310950661
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,18,2569919,0.9858,14.0016,prediction_set_size,spi_fast_form,0.9999973280780777
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,18,2569919,0.9873333333333333,16.735866666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,40,1000,15000,19,5495936,0.989,19.372133333333334,prediction_set_size,standard_real,0.9999984453035021
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,40,1000,15000,19,5495936,0.9003333333333333,2.6043333333333334,prediction_set_size,standard_reference,0.9951067589656322
+Figure 5,ImageNet,SPI,0.05,0.95,40,1000,15000,19,5495936,0.9020666666666667,2.6642,prediction_set_size,spi_fast_form,0.9955014330883125
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,40,1000,15000,19,5495936,0.9141333333333334,3.2769333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,0,2492284,0.9921333333333333,22.4096,prediction_set_size,standard_real,0.9999987453515495
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,0,2492284,0.8960666666666667,2.3585333333333334,prediction_set_size,standard_reference,0.9930113802264644
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,0,2492284,0.9242666666666667,3.6725333333333334,prediction_set_size,spi_fast_form,0.998656226988126
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,0,2492284,0.9416,5.291333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,1,6438288,0.962,7.4614666666666665,prediction_set_size,standard_real,0.9999165759559586
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,1,6438288,0.9001333333333333,2.642533333333333,prediction_set_size,standard_reference,0.9954128473144773
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,1,6438288,0.9008666666666667,2.6828666666666665,prediction_set_size,spi_fast_form,0.9956647468489703
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,1,6438288,0.9250666666666667,4.182133333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,2,275592,0.9602,7.5052666666666665,prediction_set_size,standard_real,0.9999192877007196
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,2,275592,0.9022,2.7709333333333332,prediction_set_size,standard_reference,0.9961022988584373
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,2,275592,0.949,6.303733333333334,prediction_set_size,spi_fast_form,0.9998283363384115
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,2,275592,0.9505333333333333,6.488,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,3,2731692,0.9824666666666667,12.914866666666667,prediction_set_size,standard_real,0.9999953978828906
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,3,2731692,0.8822666666666666,2.1516,prediction_set_size,standard_reference,0.98993189500047
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,3,2731692,0.9345333333333333,5.111133333333333,prediction_set_size,spi_fast_form,0.999601736729131
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,3,2731692,0.9808666666666667,12.3464,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,4,1441594,0.971,9.454066666666666,prediction_set_size,standard_real,0.9999727407147511
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,4,1441594,0.9049333333333334,2.6716,prediction_set_size,standard_reference,0.9955873355815832
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,4,1441594,0.9246666666666666,3.9754666666666667,prediction_set_size,spi_fast_form,0.9989828876930887
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,4,1441594,0.9484,6.153466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,5,7551662,0.973,10.2866,prediction_set_size,standard_real,0.9999824829915102
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,5,7551662,0.9083333333333333,2.8568,prediction_set_size,standard_reference,0.9965293361959745
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,5,7551662,0.934,4.8808,prediction_set_size,spi_fast_form,0.9995314805865458
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,5,7551662,0.9411333333333334,5.519266666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,6,4731878,0.9406666666666667,5.498666666666667,prediction_set_size,standard_real,0.999701744919819
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,6,4731878,0.9056,2.801266666666667,prediction_set_size,standard_reference,0.9961945839463655
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,6,4731878,0.9294,4.483733333333333,prediction_set_size,spi_fast_form,0.9993417726837923
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,6,4731878,0.9339333333333333,4.967533333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,7,9486483,0.9513333333333334,6.2984,prediction_set_size,standard_real,0.9998288541844006
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,7,9486483,0.9119333333333334,2.9952,prediction_set_size,standard_reference,0.9970921266450125
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,7,9486483,0.9356666666666666,5.0216666666666665,prediction_set_size,spi_fast_form,0.9995786546309753
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,7,9486483,0.9495333333333333,6.143133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,8,857393,0.9657333333333333,8.213733333333334,prediction_set_size,standard_real,0.9999446436187026
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,8,857393,0.8978,2.5185333333333335,prediction_set_size,standard_reference,0.9944062841542487
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,8,857393,0.8978666666666667,2.5218666666666665,prediction_set_size,spi_fast_form,0.994434264676974
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,8,857393,0.8732,2.0482666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,9,4233261,0.9676666666666667,8.800133333333333,prediction_set_size,standard_real,0.9999600558557984
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,9,4233261,0.9064666666666666,2.8946666666666667,prediction_set_size,standard_reference,0.9966139120712231
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,9,4233261,0.9088666666666667,3.033733333333333,prediction_set_size,spi_fast_form,0.9971390145273675
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,9,4233261,0.9413333333333334,5.783333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,10,9504621,0.9732666666666666,9.8044,prediction_set_size,standard_real,0.9999768621010648
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,10,9504621,0.8962,2.4748,prediction_set_size,standard_reference,0.9939472427724978
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,10,9504621,0.9289333333333334,4.543933333333333,prediction_set_size,spi_fast_form,0.9993672472580224
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,10,9504621,0.9455333333333333,5.883933333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,11,5118207,0.9559333333333333,6.699066666666667,prediction_set_size,standard_real,0.9998668218927593
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,11,5118207,0.8855333333333333,2.1810666666666667,prediction_set_size,standard_reference,0.9905855312670055
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,11,5118207,0.9512,6.282933333333333,prediction_set_size,spi_fast_form,0.9998266565790379
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,11,5118207,0.955,6.6364,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,12,8690244,0.9813333333333333,12.3206,prediction_set_size,standard_real,0.9999936148103509
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,12,8690244,0.9022,2.6803333333333335,prediction_set_size,standard_reference,0.9955647164659465
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,12,8690244,0.9022666666666667,2.6841333333333335,prediction_set_size,spi_fast_form,0.9955890038963932
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,12,8690244,0.9803333333333333,11.9914,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,13,8229426,0.9702666666666667,8.829,prediction_set_size,standard_real,0.9999607538614195
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,13,8229426,0.9130666666666667,2.941133333333333,prediction_set_size,standard_reference,0.9968123041170923
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,13,8229426,0.9538666666666666,6.5936,prediction_set_size,spi_fast_form,0.999854525592385
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,13,8229426,0.9612,7.37,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,14,348525,0.9917333333333334,22.460066666666666,prediction_set_size,standard_real,0.9999987395211994
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,14,348525,0.9076666666666666,2.9326,prediction_set_size,standard_reference,0.9967129658464792
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,14,348525,0.985,13.749533333333334,prediction_set_size,spi_fast_form,0.9999970459431287
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,14,348525,0.9855333333333334,13.9928,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,15,8277021,0.9523333333333334,6.375266666666667,prediction_set_size,standard_real,0.9998354454032237
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,15,8277021,0.9081333333333333,2.6822666666666666,prediction_set_size,standard_reference,0.9956027569997595
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,15,8277021,0.9091333333333333,2.7249333333333334,prediction_set_size,spi_fast_form,0.9958551506495973
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,15,8277021,0.9164666666666667,3.0875333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,16,3118312,0.9692666666666667,8.851066666666666,prediction_set_size,standard_real,0.9999608470794293
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,16,3118312,0.8907333333333334,2.3056,prediction_set_size,standard_reference,0.9921648765338932
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,16,3118312,0.9444666666666667,5.765933333333333,prediction_set_size,spi_fast_form,0.9997483447617297
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,16,3118312,0.9558,6.7456,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,17,4091990,0.9692666666666667,8.685133333333333,prediction_set_size,standard_real,0.9999602643961357
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,17,4091990,0.9131333333333334,2.8968666666666665,prediction_set_size,standard_reference,0.9968679911312261
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,17,4091990,0.9143333333333333,2.9589333333333334,prediction_set_size,spi_fast_form,0.9971032713355304
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,17,4091990,0.9604666666666667,7.026066666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,18,2569919,0.9902666666666666,20.548066666666667,prediction_set_size,standard_real,0.9999985597008164
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,18,2569919,0.897,2.6038,prediction_set_size,standard_reference,0.9950706796527562
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,18,2569919,0.9784,11.593533333333333,prediction_set_size,spi_fast_form,0.9999909452261143
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,18,2569919,0.9859333333333333,14.180866666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.05,0.95,50,1000,15000,19,5495936,0.989,19.3712,prediction_set_size,standard_real,0.9999984453035021
+Figure 5,ImageNet,Synthetic-only,0.05,0.95,50,1000,15000,19,5495936,0.9054,2.7800666666666665,prediction_set_size,standard_reference,0.9961457841383472
+Figure 5,ImageNet,SPI,0.05,0.95,50,1000,15000,19,5495936,0.9056666666666666,2.792,prediction_set_size,spi_fast_form,0.9962084027326094
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.05,0.95,50,1000,15000,19,5495936,0.8931333333333333,2.4106,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,0,2492284,0.8668666666666667,1.8846666666666667,prediction_set_size,standard_real,0.9839493528159264
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,0,2492284,0.8347333333333333,1.569,prediction_set_size,standard_reference,0.9681109607187266
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,0,2492284,0.8398666666666667,1.6123333333333334,prediction_set_size,spi_fast_form,0.9711426663614108
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,0,2492284,0.8560666666666666,1.7642666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,1,6438288,0.986,13.707466666666667,prediction_set_size,standard_real,0.9999970513802754
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,1,6438288,0.8281333333333334,1.5645333333333333,prediction_set_size,standard_reference,0.9672684282431946
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,1,6438288,0.8745333333333334,2.054133333333333,prediction_set_size,spi_fast_form,0.9883869129787819
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,1,6438288,0.9011333333333333,2.6762,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,2,275592,0.9602666666666667,7.5103333333333335,prediction_set_size,standard_real,0.9999192877007196
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,2,275592,0.8346666666666667,1.6478666666666666,prediction_set_size,standard_reference,0.972679639260355
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,2,275592,0.9504,6.475733333333333,prediction_set_size,spi_fast_form,0.9998461986119817
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,2,275592,0.9559333333333333,7.060133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,3,2731692,0.9807333333333333,12.318066666666667,prediction_set_size,standard_real,0.9999938448041696
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,3,2731692,0.8203333333333334,1.512,prediction_set_size,standard_reference,0.9626802156308145
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,3,2731692,0.84,1.6508,prediction_set_size,spi_fast_form,0.972948114150351
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,3,2731692,0.8756,2.0532666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,4,1441594,0.9176666666666666,3.301266666666667,prediction_set_size,standard_real,0.9979666198847645
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,4,1441594,0.8434666666666667,1.6708,prediction_set_size,standard_reference,0.9741351186133825
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,4,1441594,0.8718666666666667,1.9811333333333334,prediction_set_size,spi_fast_form,0.9863004746748639
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,4,1441594,0.8984,2.4638666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,5,7551662,0.7604666666666666,1.2204666666666666,prediction_set_size,standard_real,0.9225809707562027
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,5,7551662,0.8489333333333333,1.7160666666666666,prediction_set_size,standard_reference,0.9770010305133028
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,5,7551662,0.8499333333333333,1.7245333333333333,prediction_set_size,spi_fast_form,0.977397420787617
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,5,7551662,0.735,1.1346,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,6,4731878,0.9406666666666667,5.503266666666667,prediction_set_size,standard_real,0.999701744919819
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,6,4731878,0.8407333333333333,1.6774666666666667,prediction_set_size,standard_reference,0.9745926813850107
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,6,4731878,0.8808,2.1682,prediction_set_size,spi_fast_form,0.9900995948300914
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,6,4731878,0.9084666666666666,2.897266666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,7,9486483,0.9492666666666667,6.104133333333333,prediction_set_size,standard_real,0.9998068149360478
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,7,9486483,0.849,1.7035333333333333,prediction_set_size,standard_reference,0.9759574807029984
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,7,9486483,0.869,1.9134,prediction_set_size,spi_fast_form,0.984276434884459
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,7,9486483,0.904,2.6132,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,8,857393,0.8734,2.046866666666667,prediction_set_size,standard_real,0.9876936511299216
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,8,857393,0.8367333333333333,1.6641333333333332,prediction_set_size,standard_reference,0.973704031592838
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,8,857393,0.8645333333333334,1.9274666666666667,prediction_set_size,spi_fast_form,0.9846465496040179
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,8,857393,0.8706666666666667,2.0003333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,9,4233261,0.9678,8.802933333333334,prediction_set_size,standard_real,0.9999600558557984
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,9,4233261,0.8434,1.6998,prediction_set_size,standard_reference,0.9752297686469457
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,9,4233261,0.8434666666666667,1.7002,prediction_set_size,spi_fast_form,0.9752466180920073
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,9,4233261,0.8423333333333334,1.6875333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,10,9504621,0.9732,9.805733333333333,prediction_set_size,standard_real,0.9999768621010648
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,10,9504621,0.8399333333333333,1.6544666666666668,prediction_set_size,standard_reference,0.9728741518525482
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,10,9504621,0.8400666666666666,1.6568666666666667,prediction_set_size,spi_fast_form,0.9730296647922181
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,10,9504621,0.8638666666666667,1.9075333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,11,5118207,0.9976,27.5104,prediction_set_size,standard_real,0.9999992845033506
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,11,5118207,0.8119333333333333,1.448,prediction_set_size,standard_reference,0.9569534074932746
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,11,5118207,0.955,6.635666666666666,prediction_set_size,spi_fast_form,0.9998615678971114
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,11,5118207,0.9666666666666667,8.037266666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,12,8690244,0.9796666666666667,11.926733333333333,prediction_set_size,standard_real,0.9999921874872741
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,12,8690244,0.8366,1.6142,prediction_set_size,standard_reference,0.9714505583353904
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,12,8690244,0.8701333333333333,1.9568666666666668,prediction_set_size,spi_fast_form,0.9858357202440562
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,12,8690244,0.8995333333333333,2.5814666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,13,8229426,0.8980666666666667,2.4348666666666667,prediction_set_size,standard_real,0.993577471064463
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,13,8229426,0.8338,1.5965333333333334,prediction_set_size,standard_reference,0.969508852756669
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,13,8229426,0.8359333333333333,1.6116,prediction_set_size,spi_fast_form,0.9705309516186598
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,13,8229426,0.8638666666666667,1.8610666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,14,348525,0.9658,8.434666666666667,prediction_set_size,standard_real,0.9999504601632341
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,14,348525,0.8514666666666667,1.7478,prediction_set_size,standard_reference,0.9775252414006566
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,14,348525,0.9551333333333333,6.9383333333333335,prediction_set_size,spi_fast_form,0.9998816658285483
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,14,348525,0.9624666666666667,7.774333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,15,8277021,0.7582666666666666,1.2062,prediction_set_size,standard_real,0.9199863696323184
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,15,8277021,0.8538,1.7488,prediction_set_size,standard_reference,0.9785474242398917
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,15,8277021,0.8546666666666667,1.7554,prediction_set_size,spi_fast_form,0.9788539681210126
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,15,8277021,0.7226,1.0992666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,16,3118312,0.9786,11.126533333333333,prediction_set_size,standard_real,0.9999883097661856
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,16,3118312,0.8280666666666666,1.5555333333333334,prediction_set_size,standard_reference,0.9658988345818824
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,16,3118312,0.9533333333333334,6.559466666666666,prediction_set_size,spi_fast_form,0.9998509817428184
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,16,3118312,0.9654,7.958866666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,17,4091990,0.8434666666666667,1.6396666666666666,prediction_set_size,standard_real,0.9731777596858265
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,17,4091990,0.8346,1.5721333333333334,prediction_set_size,standard_reference,0.9686418342090566
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,17,4091990,0.8360666666666666,1.5827333333333333,prediction_set_size,spi_fast_form,0.969400440609069
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,17,4091990,0.8392,1.6064666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,18,2569919,0.9734666666666667,10.253333333333334,prediction_set_size,standard_real,0.9999817585626297
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,18,2569919,0.8408,1.6878666666666666,prediction_set_size,standard_reference,0.975293929468033
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,18,2569919,0.8408,1.6882666666666666,prediction_set_size,spi_fast_form,0.975315986238176
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,18,2569919,0.843,1.7062,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,10,1000,15000,19,5495936,0.9952666666666666,26.038666666666668,prediction_set_size,standard_real,0.9999991035978442
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,10,1000,15000,19,5495936,0.8466666666666667,1.7317333333333333,prediction_set_size,standard_reference,0.9777803473943075
+Figure 5,ImageNet,SPI,0.1,0.9,10,1000,15000,19,5495936,0.8466666666666667,1.732,prediction_set_size,spi_fast_form,0.9777898877263147
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,10,1000,15000,19,5495936,0.8706666666666667,1.9732666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,0,2492284,0.8668,1.8848666666666667,prediction_set_size,standard_real,0.9839493528159264
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,0,2492284,0.8398,1.6126,prediction_set_size,standard_reference,0.97114514363627
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,0,2492284,0.8400666666666666,1.6136666666666666,prediction_set_size,spi_fast_form,0.9712634079742035
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,0,2492284,0.8412666666666667,1.6242,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,1,6438288,0.986,13.709133333333334,prediction_set_size,standard_real,0.9999970513802754
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,1,6438288,0.8334,1.6102,prediction_set_size,standard_reference,0.9706945327832379
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,1,6438288,0.8338,1.6128666666666667,prediction_set_size,spi_fast_form,0.9708362860407368
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,1,6438288,0.8760666666666667,2.0761333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,2,275592,0.9602666666666667,7.51,prediction_set_size,standard_real,0.9999192877007196
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,2,275592,0.8295333333333333,1.6064666666666667,prediction_set_size,standard_reference,0.9698724799072207
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,2,275592,0.9143333333333333,3.4122666666666666,prediction_set_size,spi_fast_form,0.9981883864524267
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,2,275592,0.9502,6.4206666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,3,2731692,0.9824666666666667,12.914666666666667,prediction_set_size,standard_real,0.9999953978828906
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,3,2731692,0.8194,1.5062666666666666,prediction_set_size,standard_reference,0.9620848627632432
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,3,2731692,0.8912666666666667,2.3221333333333334,prediction_set_size,spi_fast_form,0.992505981958631
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,3,2731692,0.9475333333333333,6.176666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,4,1441594,0.971,9.4554,prediction_set_size,standard_real,0.9999727407147511
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,4,1441594,0.8391333333333333,1.6387333333333334,prediction_set_size,standard_reference,0.9722114063279922
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,4,1441594,0.8726,1.9984,prediction_set_size,spi_fast_form,0.9867726979010255
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,4,1441594,0.918,3.3428,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,5,7551662,0.9729333333333333,10.284266666666667,prediction_set_size,standard_real,0.9999824829915102
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,5,7551662,0.8473333333333334,1.7022,prediction_set_size,standard_reference,0.9762860488394388
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,5,7551662,0.8477333333333333,1.7054,prediction_set_size,spi_fast_form,0.9764771446422026
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,5,7551662,0.7699333333333334,1.2559333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,6,4731878,0.9406666666666667,5.5022,prediction_set_size,standard_real,0.999701744919819
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,6,4731878,0.8566666666666667,1.8339333333333334,prediction_set_size,standard_reference,0.9816399734361968
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,6,4731878,0.8707333333333334,2.0096,prediction_set_size,spi_fast_form,0.9868515334193333
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,6,4731878,0.8888,2.3296,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,7,9486483,0.9513333333333334,6.2956666666666665,prediction_set_size,standard_real,0.9998288541844006
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,7,9486483,0.8527333333333333,1.7412,prediction_set_size,standard_reference,0.9777412856035936
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,7,9486483,0.869,1.9133333333333333,prediction_set_size,spi_fast_form,0.984276434884459
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,7,9486483,0.9494666666666667,6.1114,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,8,857393,0.8734,2.0472,prediction_set_size,standard_real,0.9876936511299216
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,8,857393,0.8363333333333334,1.6602666666666666,prediction_set_size,standard_reference,0.9734714832364928
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,8,857393,0.8364666666666667,1.6619333333333333,prediction_set_size,spi_fast_form,0.9735700849955434
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,8,857393,0.8646,1.9310666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,9,4233261,0.9676666666666667,8.8036,prediction_set_size,standard_real,0.9999600558557984
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,9,4233261,0.8482666666666666,1.7508666666666666,prediction_set_size,standard_reference,0.9776815367955303
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,9,4233261,0.8494,1.7597333333333334,prediction_set_size,spi_fast_form,0.97807193492936
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,9,4233261,0.7670666666666667,1.2612,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,10,9504621,0.9732,9.804666666666666,prediction_set_size,standard_real,0.9999768621010648
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,10,9504621,0.8378666666666666,1.6392,prediction_set_size,standard_reference,0.9719054569149241
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,10,9504621,0.8446,1.6962,prediction_set_size,spi_fast_form,0.9753211542643309
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,10,9504621,0.9202,3.6806,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,11,5118207,0.9976,27.5088,prediction_set_size,standard_real,0.9999992845033506
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,11,5118207,0.8114666666666667,1.4454,prediction_set_size,standard_reference,0.9566365135078297
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,11,5118207,0.9048666666666667,2.6703333333333332,prediction_set_size,spi_fast_form,0.9955529128751031
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,11,5118207,0.955,6.6382666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,12,8690244,0.9812666666666666,12.326133333333333,prediction_set_size,standard_real,0.9999936148103509
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,12,8690244,0.8382666666666667,1.6278,prediction_set_size,standard_reference,0.9722749893894835
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,12,8690244,0.8701333333333333,1.9570666666666667,prediction_set_size,spi_fast_form,0.9858357202440562
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,12,8690244,0.9649333333333333,8.0622,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,13,8229426,0.9727333333333333,9.436066666666667,prediction_set_size,standard_real,0.9999717881551338
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,13,8229426,0.8382,1.6314666666666666,prediction_set_size,standard_reference,0.9717504341745898
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,13,8229426,0.8402666666666667,1.6473333333333333,prediction_set_size,spi_fast_form,0.9728497048331994
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,13,8229426,0.8982,2.4389333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,14,348525,0.9658,8.4348,prediction_set_size,standard_real,0.9999504601632341
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,14,348525,0.8420666666666666,1.6652,prediction_set_size,standard_reference,0.9731621682612056
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,14,348525,0.9552,6.9388,prediction_set_size,spi_fast_form,0.9998816658285483
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,14,348525,0.9586666666666667,7.337133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,15,8277021,0.9528,6.427,prediction_set_size,standard_real,0.9998411948053925
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,15,8277021,0.8575333333333334,1.7798,prediction_set_size,standard_reference,0.9799953031978773
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,15,8277021,0.8576666666666667,1.7809333333333333,prediction_set_size,spi_fast_form,0.980046932565794
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,15,8277021,0.7739333333333334,1.2665333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,16,3118312,0.9786,11.127533333333334,prediction_set_size,standard_real,0.9999883097661856
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,16,3118312,0.8231333333333334,1.5230666666666666,prediction_set_size,standard_reference,0.9630547876240532
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,16,3118312,0.9031333333333333,2.664066666666667,prediction_set_size,spi_fast_form,0.995427957770995
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,16,3118312,0.9533333333333334,6.559866666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,17,4091990,0.9582666666666667,6.769933333333333,prediction_set_size,standard_real,0.9998785362208537
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,17,4091990,0.8219333333333333,1.4968666666666666,prediction_set_size,standard_reference,0.9624912508453626
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,17,4091990,0.8301333333333333,1.5434,prediction_set_size,spi_fast_form,0.9664494740592359
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,17,4091990,0.8434,1.6392,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,18,2569919,0.9856666666666667,13.998,prediction_set_size,standard_real,0.9999973280780777
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,18,2569919,0.8412,1.6896666666666667,prediction_set_size,standard_reference,0.9753858321321208
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,18,2569919,0.9021333333333333,2.7682,prediction_set_size,spi_fast_form,0.9960610972140554
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,18,2569919,0.9743333333333334,10.475066666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,15,1000,15000,19,5495936,0.9952666666666666,26.0394,prediction_set_size,standard_real,0.9999991035978442
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,15,1000,15000,19,5495936,0.8366666666666667,1.6370666666666667,prediction_set_size,standard_reference,0.9724725361134173
+Figure 5,ImageNet,SPI,0.1,0.9,15,1000,15000,19,5495936,0.8801333333333333,2.1200666666666668,prediction_set_size,spi_fast_form,0.9895300345586968
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,15,1000,15000,19,5495936,0.8931333333333333,2.4110666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,0,2492284,0.9062,2.6795333333333335,prediction_set_size,standard_real,0.9956761861066507
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,0,2492284,0.835,1.5717333333333334,prediction_set_size,standard_reference,0.9682846174329381
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,0,2492284,0.8669333333333333,1.8846,prediction_set_size,spi_fast_form,0.9839493528159264
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,0,2492284,0.8858666666666667,2.1606666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,1,6438288,0.8891333333333333,2.3396,prediction_set_size,standard_real,0.9928000113395684
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,1,6438288,0.8371333333333333,1.6302,prediction_set_size,standard_reference,0.9720856174810147
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,1,6438288,0.8744,2.0538,prediction_set_size,spi_fast_form,0.9883869129787819
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,1,6438288,0.8829333333333333,2.207333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,2,275592,0.9503333333333334,6.474466666666666,prediction_set_size,standard_real,0.9998461986119817
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,2,275592,0.8350666666666666,1.6514,prediction_set_size,standard_reference,0.9728681429416878
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,2,275592,0.9142666666666667,3.412,prediction_set_size,spi_fast_form,0.9981883864524267
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,2,275592,0.9236,4.191466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,3,2731692,0.9808,12.3186,prediction_set_size,standard_real,0.9999938448041696
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,3,2731692,0.8205333333333333,1.5142,prediction_set_size,standard_reference,0.9628350350450767
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,3,2731692,0.8912666666666667,2.3218666666666667,prediction_set_size,spi_fast_form,0.992505981958631
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,3,2731692,0.9084666666666666,2.8440666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,4,1441594,0.9176,3.3017333333333334,prediction_set_size,standard_real,0.9979666198847645
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,4,1441594,0.85,1.7358,prediction_set_size,standard_reference,0.977588976543356
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,4,1441594,0.8726,1.9985333333333333,prediction_set_size,spi_fast_form,0.9867726979010255
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,4,1441594,0.8995333333333333,2.4987333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,5,7551662,0.8098,1.433,prediction_set_size,standard_real,0.9557882537096072
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,5,7551662,0.8490666666666666,1.7200666666666666,prediction_set_size,standard_reference,0.9772111633603481
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,5,7551662,0.8515333333333334,1.7368,prediction_set_size,spi_fast_form,0.9780269870215601
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,5,7551662,0.7913333333333333,1.3421333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,6,4731878,0.8808,2.1668666666666665,prediction_set_size,standard_real,0.9900995948300914
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,6,4731878,0.8478,1.7464666666666666,prediction_set_size,standard_reference,0.9781817718354886
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,6,4731878,0.8707333333333334,2.0090666666666666,prediction_set_size,spi_fast_form,0.9868515334193333
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,6,4731878,0.8767333333333334,2.1026666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,7,9486483,0.9493333333333334,6.1034,prediction_set_size,standard_real,0.9998068149360478
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,7,9486483,0.8529333333333333,1.7415333333333334,prediction_set_size,standard_reference,0.9777759975631263
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,7,9486483,0.9356666666666666,5.0187333333333335,prediction_set_size,spi_fast_form,0.9995786546309753
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,7,9486483,0.9426,5.593533333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,8,857393,0.8720666666666667,2.026,prediction_set_size,standard_real,0.9872463062740275
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,8,857393,0.8385333333333334,1.6787333333333334,prediction_set_size,standard_reference,0.9744690276680334
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,8,857393,0.8644666666666667,1.9276666666666666,prediction_set_size,spi_fast_form,0.9846465496040179
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,8,857393,0.8688666666666667,1.9799333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,9,4233261,0.9088666666666667,3.0342666666666664,prediction_set_size,standard_real,0.9971390145273675
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,9,4233261,0.8481333333333333,1.7498,prediction_set_size,standard_reference,0.9776293214820186
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,9,4233261,0.8486,1.753,prediction_set_size,spi_fast_form,0.9777961553417324
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,9,4233261,0.8319333333333333,1.611,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,10,9504621,0.9201333333333334,3.6722,prediction_set_size,standard_real,0.9985942163862636
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,10,9504621,0.8432,1.6772,prediction_set_size,standard_reference,0.9741876592695575
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,10,9504621,0.8552,1.7918666666666667,prediction_set_size,spi_fast_form,0.9797218668563732
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,10,9504621,0.8841333333333333,2.2142,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,11,5118207,0.955,6.635666666666666,prediction_set_size,standard_real,0.9998615678971114
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,11,5118207,0.8154666666666667,1.4707333333333332,prediction_set_size,standard_reference,0.9590660425197234
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,11,5118207,0.9342666666666667,4.9154,prediction_set_size,spi_fast_form,0.9995385312900738
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,11,5118207,0.9402666666666667,5.4122,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,12,8690244,0.9796666666666667,11.926866666666667,prediction_set_size,standard_real,0.9999921874872741
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,12,8690244,0.8396666666666667,1.6392,prediction_set_size,standard_reference,0.9728976727957209
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,12,8690244,0.87,1.9575333333333333,prediction_set_size,spi_fast_form,0.9858357202440562
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,12,8690244,0.8943333333333333,2.4142,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,13,8229426,0.9538666666666666,6.592333333333333,prediction_set_size,standard_real,0.999854525592385
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,13,8229426,0.8418666666666667,1.6592,prediction_set_size,standard_reference,0.9735697040648209
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,13,8229426,0.8980666666666667,2.4366,prediction_set_size,spi_fast_form,0.993577471064463
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,13,8229426,0.9164666666666667,3.1322666666666668,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,14,348525,0.9658666666666667,8.435533333333334,prediction_set_size,standard_real,0.9999504601632341
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,14,348525,0.8410666666666666,1.6597333333333333,prediction_set_size,standard_reference,0.9727496973445209
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,14,348525,0.9655333333333334,8.330133333333333,prediction_set_size,spi_fast_form,0.9999475377546406
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,14,348525,0.9656,8.379466666666668,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,15,8277021,0.8246,1.5196,prediction_set_size,standard_real,0.9644209807694945
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,15,8277021,0.8571333333333333,1.7779333333333334,prediction_set_size,standard_reference,0.9799117409682493
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,15,8277021,0.8577333333333333,1.7829333333333333,prediction_set_size,spi_fast_form,0.9801643546668248
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,15,8277021,0.8246,1.5189333333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,16,3118312,0.9533333333333334,6.5596,prediction_set_size,standard_real,0.9998509817428184
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,16,3118312,0.8306,1.5766666666666667,prediction_set_size,standard_reference,0.9674933041988599
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,16,3118312,0.9030666666666667,2.6639333333333335,prediction_set_size,spi_fast_form,0.995427957770995
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,16,3118312,0.9169333333333334,3.301066666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,17,4091990,0.8432666666666667,1.6386,prediction_set_size,standard_real,0.9731777596858265
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,17,4091990,0.8326,1.5611333333333333,prediction_set_size,standard_reference,0.9679008428259297
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,17,4091990,0.833,1.5629333333333333,prediction_set_size,spi_fast_form,0.9680403120345197
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,17,4091990,0.8378,1.5954666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,18,2569919,0.9782666666666666,11.592466666666667,prediction_set_size,standard_real,0.9999909452261143
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,18,2569919,0.8406666666666667,1.6854,prediction_set_size,standard_reference,0.9751697453469657
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,18,2569919,0.9736,10.254,prediction_set_size,spi_fast_form,0.9999817585626297
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,18,2569919,0.9764,11.0232,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,20,1000,15000,19,5495936,0.8913333333333333,2.360133333333333,prediction_set_size,standard_real,0.9929497676606135
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,20,1000,15000,19,5495936,0.8342,1.615,prediction_set_size,standard_reference,0.9711211037830154
+Figure 5,ImageNet,SPI,0.1,0.9,20,1000,15000,19,5495936,0.8801333333333333,2.1201333333333334,prediction_set_size,spi_fast_form,0.9895300345586968
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,20,1000,15000,19,5495936,0.8864666666666666,2.239733333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,0,2492284,0.8668666666666667,1.8852666666666666,prediction_set_size,standard_real,0.9839493528159264
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,0,2492284,0.8274666666666667,1.5219333333333334,prediction_set_size,standard_reference,0.964291080974442
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,0,2492284,0.8413333333333334,1.6243333333333334,prediction_set_size,spi_fast_form,0.9719174699011146
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,0,2492284,0.8503333333333334,1.7068,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,1,6438288,0.889,2.3400666666666665,prediction_set_size,standard_real,0.9928000113395684
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,1,6438288,0.8334,1.6113333333333333,prediction_set_size,standard_reference,0.9707422989844898
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,1,6438288,0.8742666666666666,2.0542,prediction_set_size,spi_fast_form,0.9883869129787819
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,1,6438288,0.8816666666666667,2.187333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,2,275592,0.9142,3.4108,prediction_set_size,standard_real,0.9981883864524267
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,2,275592,0.8343333333333334,1.6437333333333333,prediction_set_size,standard_reference,0.9724400701469913
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,2,275592,0.9011333333333333,2.727333333333333,prediction_set_size,spi_fast_form,0.9958838269462595
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,2,275592,0.9084666666666666,3.0252,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,3,2731692,0.9215333333333333,3.6966,prediction_set_size,standard_real,0.998637360358431
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,3,2731692,0.8172,1.4947333333333332,prediction_set_size,standard_reference,0.9610664647129159
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,3,2731692,0.8912666666666667,2.3216,prediction_set_size,spi_fast_form,0.992505981958631
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,3,2731692,0.9026,2.6268,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,4,1441594,0.9246666666666666,3.9763333333333333,prediction_set_size,standard_real,0.9989828876930887
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,4,1441594,0.8442,1.6798,prediction_set_size,standard_reference,0.9746661271912473
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,4,1441594,0.9176,3.3020666666666667,prediction_set_size,spi_fast_form,0.9979666198847645
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,4,1441594,0.9212,3.680066666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,5,7551662,0.9167333333333333,3.3828,prediction_set_size,standard_real,0.9981303765454634
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,5,7551662,0.8452,1.6787333333333334,prediction_set_size,standard_reference,0.9751077584221798
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,5,7551662,0.8766666666666667,2.0364666666666666,prediction_set_size,spi_fast_form,0.9878609229956133
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,5,7551662,0.8955333333333333,2.438466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,6,4731878,0.8808,2.1677333333333335,prediction_set_size,standard_real,0.9900995948300914
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,6,4731878,0.8509333333333333,1.7820666666666667,prediction_set_size,standard_reference,0.9796334500820861
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,6,4731878,0.8707333333333334,2.0098,prediction_set_size,spi_fast_form,0.9868515334193333
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,6,4731878,0.8766,2.101933333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,7,9486483,0.9356,5.020733333333333,prediction_set_size,standard_real,0.9995786546309753
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,7,9486483,0.8519333333333333,1.7377333333333334,prediction_set_size,standard_reference,0.9775676976148273
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,7,9486483,0.8688666666666667,1.9134,prediction_set_size,spi_fast_form,0.984276434884459
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,7,9486483,0.8964,2.402,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,8,857393,0.8643333333333333,1.9271333333333334,prediction_set_size,standard_real,0.9846465496040179
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,8,857393,0.8408,1.6982,prediction_set_size,standard_reference,0.9755726139729762
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,8,857393,0.8531333333333333,1.8077333333333334,prediction_set_size,spi_fast_form,0.980531330160856
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,8,857393,0.8600666666666666,1.8715333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,9,4233261,0.7566,1.2199333333333333,prediction_set_size,standard_real,0.9215049680600573
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,9,4233261,0.8456666666666667,1.7229333333333334,prediction_set_size,standard_reference,0.9764062520279254
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,9,4233261,0.8482,1.7498,prediction_set_size,spi_fast_form,0.9776533383450482
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,9,4233261,0.7550666666666667,1.2145333333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,10,9504621,0.9456,5.8828,prediction_set_size,standard_real,0.9997700309605527
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,10,9504621,0.8296,1.5766,prediction_set_size,standard_reference,0.9675221622646899
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,10,9504621,0.9290666666666667,4.543933333333333,prediction_set_size,spi_fast_form,0.9993672472580224
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,10,9504621,0.9350666666666667,5.0052,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,11,5118207,0.9380666666666667,5.2134,prediction_set_size,standard_real,0.9996336113091724
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,11,5118207,0.8147333333333333,1.4675333333333334,prediction_set_size,standard_reference,0.9587608194028641
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,11,5118207,0.9343333333333333,4.9146,prediction_set_size,spi_fast_form,0.9995385312900738
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,11,5118207,0.9357333333333333,5.0462,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,12,8690244,0.9797333333333333,11.926466666666666,prediction_set_size,standard_real,0.9999921874872741
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,12,8690244,0.8452,1.6888666666666667,prediction_set_size,standard_reference,0.9755265569920678
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,12,8690244,0.87,1.958,prediction_set_size,spi_fast_form,0.9858357202440562
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,12,8690244,0.8974666666666666,2.505133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,13,8229426,0.9022666666666667,2.5755333333333335,prediction_set_size,standard_real,0.9947934354877463
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,13,8229426,0.8438666666666667,1.6724666666666668,prediction_set_size,standard_reference,0.974261424336994
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,13,8229426,0.8981333333333333,2.4372,prediction_set_size,spi_fast_form,0.9935843213716123
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,13,8229426,0.9011333333333333,2.5250666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,14,348525,0.9739333333333333,10.253266666666667,prediction_set_size,standard_real,0.9999816245233288
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,14,348525,0.8344666666666667,1.6110666666666666,prediction_set_size,standard_reference,0.9695314827178095
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,14,348525,0.966,8.435666666666666,prediction_set_size,spi_fast_form,0.9999504601632341
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,14,348525,0.9688666666666667,8.910933333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,15,8277021,0.8806,2.050866666666667,prediction_set_size,standard_real,0.9881186487777165
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,15,8277021,0.8532,1.7448,prediction_set_size,standard_reference,0.9783174425909665
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,15,8277021,0.854,1.7504666666666666,prediction_set_size,spi_fast_form,0.9785711276933651
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,15,8277021,0.8579333333333333,1.7859333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,16,3118312,0.9533333333333334,6.559466666666666,prediction_set_size,standard_real,0.9998509817428184
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,16,3118312,0.8319333333333333,1.5830666666666666,prediction_set_size,standard_reference,0.9679581881869493
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,16,3118312,0.903,2.6637333333333335,prediction_set_size,spi_fast_form,0.995427957770995
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,16,3118312,0.9176,3.3352,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,17,4091990,0.8431333333333333,1.6385333333333334,prediction_set_size,standard_real,0.9731777596858265
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,17,4091990,0.8180666666666667,1.4745333333333333,prediction_set_size,standard_reference,0.9604645538976808
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,17,4091990,0.8298666666666666,1.5427333333333333,prediction_set_size,spi_fast_form,0.9664494740592359
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,17,4091990,0.8356,1.5814,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,18,2569919,0.9783333333333334,11.5946,prediction_set_size,standard_real,0.9999909452261143
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,18,2569919,0.842,1.6962,prediction_set_size,standard_reference,0.9757720730045772
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,18,2569919,0.9736666666666667,10.256133333333333,prediction_set_size,spi_fast_form,0.9999817585626297
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,18,2569919,0.9766,11.0996,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,30,1000,15000,19,5495936,0.8848,2.2103333333333333,prediction_set_size,standard_real,0.9909967719396611
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,30,1000,15000,19,5495936,0.8467333333333333,1.7304,prediction_set_size,standard_reference,0.9777297179133957
+Figure 5,ImageNet,SPI,0.1,0.9,30,1000,15000,19,5495936,0.8802,2.1201333333333334,prediction_set_size,spi_fast_form,0.9895300345586968
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,30,1000,15000,19,5495936,0.8831333333333333,2.1782666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,0,2492284,0.9061333333333333,2.680266666666667,prediction_set_size,standard_real,0.9956761861066507
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,0,2492284,0.8357333333333333,1.5785333333333333,prediction_set_size,standard_reference,0.9687361921817471
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,0,2492284,0.8412666666666667,1.6244666666666667,prediction_set_size,spi_fast_form,0.9719174699011146
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,0,2492284,0.8834666666666666,2.126333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,1,6438288,0.8889333333333334,2.3395333333333332,prediction_set_size,standard_real,0.9928000113395684
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,1,6438288,0.832,1.6001333333333334,prediction_set_size,standard_reference,0.9699997449476443
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,1,6438288,0.8468666666666667,1.7152,prediction_set_size,spi_fast_form,0.9769374627346578
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,1,6438288,0.8806666666666667,2.167133333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,2,275592,0.9142,3.4108666666666667,prediction_set_size,standard_real,0.9981883864524267
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,2,275592,0.8261333333333334,1.5838,prediction_set_size,standard_reference,0.9683419630786311
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,2,275592,0.9012,2.7274,prediction_set_size,spi_fast_form,0.9958838269462595
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,2,275592,0.9137333333333333,3.3760666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,3,2731692,0.9346,5.112,prediction_set_size,standard_real,0.999601736729131
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,3,2731692,0.8230666666666666,1.5254,prediction_set_size,standard_reference,0.9638581508937046
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,3,2731692,0.8914,2.3221333333333334,prediction_set_size,spi_fast_form,0.992505981958631
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,3,2731692,0.9253333333333333,4.1718,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,4,1441594,0.9175333333333333,3.302,prediction_set_size,standard_real,0.9979666198847645
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,4,1441594,0.8414666666666667,1.6600666666666666,prediction_set_size,standard_reference,0.9734513706927036
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,4,1441594,0.8717333333333334,1.9818666666666667,prediction_set_size,spi_fast_form,0.9863004746748639
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,4,1441594,0.8979333333333334,2.4546,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,5,7551662,0.9168,3.3850666666666664,prediction_set_size,standard_real,0.9981303765454634
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,5,7551662,0.8518666666666667,1.7405333333333333,prediction_set_size,standard_reference,0.9781686681764494
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,5,7551662,0.8518666666666667,1.7405333333333333,prediction_set_size,spi_fast_form,0.9781694050638362
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,5,7551662,0.9022666666666667,2.6237333333333335,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,6,4731878,0.8808,2.1677333333333335,prediction_set_size,standard_real,0.9900995948300914
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,6,4731878,0.8504666666666667,1.7757333333333334,prediction_set_size,standard_reference,0.9794005695622799
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,6,4731878,0.8535333333333334,1.8080666666666667,prediction_set_size,spi_fast_form,0.9806615783860021
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,6,4731878,0.8767333333333334,2.103466666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,7,9486483,0.9356666666666666,5.021866666666667,prediction_set_size,standard_real,0.9995786546309753
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,7,9486483,0.8492666666666666,1.7072,prediction_set_size,standard_reference,0.9761100469696258
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,7,9486483,0.8559333333333333,1.7714,prediction_set_size,spi_fast_form,0.9791014970735473
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,7,9486483,0.8896,2.2469333333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,8,857393,0.8529333333333333,1.8070666666666666,prediction_set_size,standard_real,0.980531330160856
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,8,857393,0.8368,1.6685333333333334,prediction_set_size,standard_reference,0.9740196708396927
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,8,857393,0.8370666666666666,1.6704,prediction_set_size,spi_fast_form,0.9741191464249878
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,8,857393,0.8366,1.6675333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,9,4233261,0.841,1.6749333333333334,prediction_set_size,standard_real,0.9739848116880732
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,9,4233261,0.8448,1.7128666666666668,prediction_set_size,standard_reference,0.9758938004861103
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,9,4233261,0.8476666666666667,1.7445333333333333,prediction_set_size,spi_fast_form,0.9774262934928601
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,9,4233261,0.8262666666666667,1.5739333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,10,9504621,0.9290666666666667,4.543733333333333,prediction_set_size,standard_real,0.9993672472580224
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,10,9504621,0.8412666666666667,1.66,prediction_set_size,standard_reference,0.9733030898627544
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,10,9504621,0.9024,2.6462,prediction_set_size,spi_fast_form,0.9953107998486488
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,10,9504621,0.9246,4.041266666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,11,5118207,0.9380666666666667,5.214066666666667,prediction_set_size,standard_real,0.9996336113091724
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,11,5118207,0.8160666666666667,1.4755333333333334,prediction_set_size,standard_reference,0.9596283878311064
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,11,5118207,0.9048666666666667,2.6702666666666666,prediction_set_size,spi_fast_form,0.9955529128751031
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,11,5118207,0.936,5.062133333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,12,8690244,0.8698,1.9580666666666666,prediction_set_size,standard_real,0.9858357202440562
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,12,8690244,0.8386666666666667,1.6352666666666666,prediction_set_size,standard_reference,0.972626445104111
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,12,8690244,0.8608,1.8424,prediction_set_size,spi_fast_form,0.982287245580825
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,12,8690244,0.8681333333333333,1.9363333333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,13,8229426,0.9538666666666666,6.5948,prediction_set_size,standard_real,0.999854525592385
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,13,8229426,0.8409333333333333,1.6521333333333332,prediction_set_size,standard_reference,0.9731138495559375
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,13,8229426,0.8982,2.4379333333333335,prediction_set_size,spi_fast_form,0.9935843213716123
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,13,8229426,0.9188,3.2664666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,14,348525,0.966,8.4336,prediction_set_size,standard_real,0.9999504601632341
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,14,348525,0.8492666666666666,1.7237333333333333,prediction_set_size,standard_reference,0.976477474581286
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,14,348525,0.9588,7.342333333333333,prediction_set_size,spi_fast_form,0.9999075241153351
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,14,348525,0.9658,8.3854,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,15,8277021,0.9005333333333333,2.4572666666666665,prediction_set_size,standard_real,0.9939401297075163
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,15,8277021,0.8580666666666666,1.787,prediction_set_size,standard_reference,0.9802905822166543
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,15,8277021,0.8806,2.0506,prediction_set_size,spi_fast_form,0.9881186487777165
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,15,8277021,0.9002,2.4484,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,16,3118312,0.9444666666666667,5.7668,prediction_set_size,standard_real,0.9997483447617297
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,16,3118312,0.823,1.5208666666666666,prediction_set_size,standard_reference,0.9628431396999684
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,16,3118312,0.9022,2.6316,prediction_set_size,spi_fast_form,0.9952177348303657
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,16,3118312,0.9142,3.152066666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,17,4091990,0.881,2.0468,prediction_set_size,standard_real,0.9882925528113289
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,17,4091990,0.8160666666666667,1.4619333333333333,prediction_set_size,standard_reference,0.9591500924328565
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,17,4091990,0.8433333333333334,1.6389333333333334,prediction_set_size,spi_fast_form,0.9731777596858265
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,17,4091990,0.8666666666666667,1.8655333333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,18,2569919,0.9784,11.5946,prediction_set_size,standard_real,0.9999909452261143
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,18,2569919,0.8480666666666666,1.7524,prediction_set_size,standard_reference,0.9784948986514412
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,18,2569919,0.9648,8.064533333333333,prediction_set_size,spi_fast_form,0.9999401121599376
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,18,2569919,0.9766666666666667,11.080533333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,40,1000,15000,19,5495936,0.8848666666666667,2.2103333333333333,prediction_set_size,standard_real,0.9909967719396611
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,40,1000,15000,19,5495936,0.8386,1.6534,prediction_set_size,standard_reference,0.9734543055700755
+Figure 5,ImageNet,SPI,0.1,0.9,40,1000,15000,19,5495936,0.8494666666666667,1.7522,prediction_set_size,spi_fast_form,0.9786811436864478
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,40,1000,15000,19,5495936,0.8823333333333333,2.1614,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,0,2492284,0.9078666666666667,2.7305333333333333,prediction_set_size,standard_real,0.9959558116853063
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,0,2492284,0.8346,1.5674,prediction_set_size,standard_reference,0.9678798238731746
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,0,2492284,0.9006666666666666,2.4948,prediction_set_size,spi_fast_form,0.9943540845062593
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,0,2492284,0.907,2.7058,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,1,6438288,0.8888666666666667,2.3402666666666665,prediction_set_size,standard_real,0.9928000113395684
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,1,6438288,0.8383333333333334,1.6446,prediction_set_size,standard_reference,0.9729184228118604
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,1,6438288,0.8467333333333333,1.7156666666666667,prediction_set_size,spi_fast_form,0.9769374627346578
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,1,6438288,0.8814,2.1820666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,2,275592,0.9142666666666667,3.4107333333333334,prediction_set_size,standard_real,0.9981883864524267
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,2,275592,0.8331333333333333,1.6370666666666667,prediction_set_size,standard_reference,0.9719803239380731
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,2,275592,0.9012666666666667,2.727333333333333,prediction_set_size,spi_fast_form,0.9958838269462595
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,2,275592,0.9138,3.381866666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,3,2731692,0.9283333333333333,4.513133333333333,prediction_set_size,standard_real,0.9993571373270052
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,3,2731692,0.8204,1.5129333333333332,prediction_set_size,standard_reference,0.9627030903464566
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,3,2731692,0.9082666666666667,2.825,prediction_set_size,spi_fast_form,0.9963410447697055
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,3,2731692,0.9241333333333334,3.9996666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,4,1441594,0.9176,3.3014666666666668,prediction_set_size,standard_real,0.9979666198847645
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,4,1441594,0.8416,1.6611333333333334,prediction_set_size,standard_reference,0.9735465644307724
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,4,1441594,0.8717333333333334,1.9814,prediction_set_size,spi_fast_form,0.9863004746748639
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,4,1441594,0.897,2.4387333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,5,7551662,0.9168666666666667,3.3854,prediction_set_size,standard_real,0.9981303765454634
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,5,7551662,0.8454666666666667,1.6826,prediction_set_size,standard_reference,0.9752479202830592
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,5,7551662,0.8524,1.7452,prediction_set_size,spi_fast_form,0.978343327330613
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,5,7551662,0.8943333333333333,2.3964666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,6,4731878,0.9012,2.6455333333333333,prediction_set_size,standard_real,0.9952928385776085
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,6,4731878,0.8415333333333334,1.6828,prediction_set_size,standard_reference,0.9750221081881733
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,6,4731878,0.8708,2.0094666666666665,prediction_set_size,spi_fast_form,0.9868515334193333
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,6,4731878,0.89,2.3506666666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,7,9486483,0.8687333333333334,1.9135333333333333,prediction_set_size,standard_real,0.984276434884459
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,7,9486483,0.8518666666666667,1.736,prediction_set_size,standard_reference,0.9774862045648828
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,7,9486483,0.8558666666666667,1.7714666666666667,prediction_set_size,spi_fast_form,0.9791014970735473
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,7,9486483,0.8631333333333333,1.8497333333333332,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,8,857393,0.8719333333333333,2.0249333333333333,prediction_set_size,standard_real,0.9872463062740275
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,8,857393,0.8384,1.6782,prediction_set_size,standard_reference,0.9745227424897349
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,8,857393,0.853,1.807,prediction_set_size,spi_fast_form,0.980531330160856
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,8,857393,0.8672666666666666,1.9656,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,9,4233261,0.8990666666666667,2.6206,prediction_set_size,standard_real,0.9950778011328812
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,9,4233261,0.8392,1.661,prediction_set_size,standard_reference,0.973184390601652
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,9,4233261,0.8478,1.7446666666666666,prediction_set_size,spi_fast_form,0.9774310055213986
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,9,4233261,0.8605333333333334,1.8752,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,10,9504621,0.9201333333333334,3.6710666666666665,prediction_set_size,standard_real,0.9985942163862636
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,10,9504621,0.8344,1.6143333333333334,prediction_set_size,standard_reference,0.9701962181807119
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,10,9504621,0.8812666666666666,2.1628,prediction_set_size,spi_fast_form,0.9899700800409782
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,10,9504621,0.9107333333333333,3.0056666666666665,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,11,5118207,0.9380666666666667,5.214333333333333,prediction_set_size,standard_real,0.9996336113091724
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,11,5118207,0.8179333333333333,1.4865333333333333,prediction_set_size,standard_reference,0.960759720143602
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,11,5118207,0.9240666666666667,3.9072666666666667,prediction_set_size,spi_fast_form,0.998912427364901
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,11,5118207,0.9359333333333333,5.056266666666667,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,12,8690244,0.8696666666666667,1.9579333333333333,prediction_set_size,standard_real,0.9858357202440562
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,12,8690244,0.8476666666666667,1.7130666666666667,prediction_set_size,standard_reference,0.9767934152578043
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,12,8690244,0.8606666666666667,1.8422666666666667,prediction_set_size,spi_fast_form,0.982287245580825
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,12,8690244,0.8683333333333333,1.9402,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,13,8229426,0.9022666666666667,2.5751333333333335,prediction_set_size,standard_real,0.9947934354877463
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,13,8229426,0.8434666666666667,1.6687333333333334,prediction_set_size,standard_reference,0.974075805162573
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,13,8229426,0.8981333333333333,2.4362666666666666,prediction_set_size,spi_fast_form,0.993577471064463
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,13,8229426,0.9006,2.5138,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,14,348525,0.9756,10.674333333333333,prediction_set_size,standard_real,0.9999853257339438
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,14,348525,0.8501333333333333,1.7286,prediction_set_size,standard_reference,0.9767018401797432
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,14,348525,0.9661333333333333,8.436266666666667,prediction_set_size,spi_fast_form,0.9999504601632341
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,14,348525,0.9749333333333333,10.501533333333333,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,15,8277021,0.8994666666666666,2.4324666666666666,prediction_set_size,standard_real,0.9936914203533302
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,15,8277021,0.8518666666666667,1.7332,prediction_set_size,standard_reference,0.9778109100731828
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,15,8277021,0.8532666666666666,1.7458666666666667,prediction_set_size,spi_fast_form,0.9783464898770501
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,15,8277021,0.891,2.235,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,16,3118312,0.903,2.664,prediction_set_size,standard_real,0.995427957770995
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,16,3118312,0.8263333333333334,1.5424,prediction_set_size,standard_reference,0.964692565655026
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,16,3118312,0.885,2.181,prediction_set_size,spi_fast_form,0.9903776844080835
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,16,3118312,0.9024666666666666,2.6446,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,17,4091990,0.8809333333333333,2.0467333333333335,prediction_set_size,standard_real,0.9882925528113289
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,17,4091990,0.8224666666666667,1.5026,prediction_set_size,standard_reference,0.9630341180653887
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,17,4091990,0.8432666666666667,1.6390666666666667,prediction_set_size,spi_fast_form,0.9731777596858265
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,17,4091990,0.8704666666666667,1.9114666666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,18,2569919,0.9737333333333333,10.254466666666668,prediction_set_size,standard_real,0.9999817585626297
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,18,2569919,0.8394,1.6703333333333332,prediction_set_size,standard_reference,0.9744078187025673
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,18,2569919,0.9486,6.336266666666667,prediction_set_size,spi_fast_form,0.9998293302241938
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,18,2569919,0.9696666666666667,9.030066666666666,prediction_set_size,rsa_cp_barycentric_ot_betabin,
+Figure 5,ImageNet,SCP,0.1,0.9,50,1000,15000,19,5495936,0.8802,2.1197333333333335,prediction_set_size,standard_real,0.9895300345586968
+Figure 5,ImageNet,Synthetic-only,0.1,0.9,50,1000,15000,19,5495936,0.845,1.7142666666666666,prediction_set_size,standard_reference,0.9768883695698206
+Figure 5,ImageNet,SPI,0.1,0.9,50,1000,15000,19,5495936,0.8452666666666667,1.7161333333333333,prediction_set_size,spi_fast_form,0.9769914504874598
+Figure 5,ImageNet,RSA-CP (OT) (Ours),0.1,0.9,50,1000,15000,19,5495936,0.8686666666666667,1.9507333333333334,prediction_set_size,rsa_cp_barycentric_ot_betabin,

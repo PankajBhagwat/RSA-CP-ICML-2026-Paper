@@ -1,0 +1,11 @@
+RSA-CP simulation method check
+Checked code files: 10
+
+Old heuristic scan:
+  PASS: no banned old heuristic strings found in R/ or experiments/.
+
+Positive implementation checks:
+  PASS: RSA-CP barycentric OT map is implemented
+  PASS: RSA-CP uses Beta-Binomial rank windows
+  PASS: RSA-CP uses candidate ranks after OT alignment
+  PASS: SPI uses fast-form windows

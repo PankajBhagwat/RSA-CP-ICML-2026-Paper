@@ -1,0 +1,29 @@
+Figure 4:
+- existing code found? yes
+- file/cell/function path: .ipynb_checkpoints/RSA-CP-checkpoint.py and RSA_CP_corrected_core.zip/RSA_CP_corrected_core/RSA-CP.py contain ImageNet loading, config_files/imagenet_clip_marginal.yml, method registration, run_comparison-style cells.
+- can reuse? yes
+- what must be modified: replace SC (real+OT-score) internals with true score-level RSA-CP (OT), keep ImageNet loader/config, and add vectorized figure output.
+
+Figure 5:
+- existing code found? partial
+- file/cell/function path: ImageNet loader/registration exists in RSA-CP checkpoint/zip, but no complete ImageNet n_cal sensitivity figure runner was found.
+- can reuse? yes, for loading/config/method names
+- what must be modified: add n_cal grid loop using the existing ImageNet data and corrected RSA-CP core.
+
+Figure 8:
+- existing code found? partial
+- file/cell/function path: ImageNet loader/registration exists; MEPS/reference-size sensitivity scripts exist but not the requested ImageNet N sensitivity figure.
+- can reuse? yes, for loading/config/method names
+- what must be modified: add N/n_ref grid loop using existing ImageNet data and corrected RSA-CP core.
+
+Figure 9:
+- existing code found? yes
+- file/cell/function path: MEPS_score only/MEPS_score_only_real_data_analysis.py, MEPS_score only/MEPS_score_only_grid.py, results/meps_four_methods_fig3_fig4/share_package/MEPS_four_methods_fig3_fig4.py.
+- can reuse? yes
+- what must be modified: keep MEPS age configs and CQR endpoint conversion, but replace the old real+OT-score augmentation logic with true RSA-CP (OT).
+
+Figure 10:
+- existing code found? partial
+- file/cell/function path: shock/mismatch-style simulation code exists under RSA_CP_simulation and rsa_cp_* R scripts, but not the exact lognormal monotone tail-distortion experiment requested here.
+- can reuse? no for exact figure
+- what must be modified: add the requested minimal score-level alignment mismatch sensitivity experiment; no Figure 3/6/7 simulation is run.

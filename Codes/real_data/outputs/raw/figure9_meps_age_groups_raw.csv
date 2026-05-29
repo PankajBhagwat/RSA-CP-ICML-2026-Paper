@@ -1,0 +1,641 @@
+figure,dataset,age_group,Method,alpha,target_coverage,n_cal,n_ref,n_test,run_id,run_seed,Coverage,Length,metric_name,method_core,qhat
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,0,2492284,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,0,2492284,0.945,3.8622168857458745,interval_width,standard_reference,0.5733563303947449
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,0,2492284,0.95,3.8761015493277227,interval_width,spi_fast_form,0.580298662185669
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,0,2492284,0.91,2.975590384014826,interval_width,rsa_cp_barycentric_ot_betabin,0.13004307952922067
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,1,6438288,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,1,6438288,0.92,3.5053330281854143,interval_width,standard_reference,0.5733563303947449
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,1,6438288,0.92,3.541120968210744,interval_width,spi_fast_form,0.5912503004074097
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,1,6438288,0.865,2.3817097696410734,interval_width,rsa_cp_barycentric_ot_betabin,0.011544701122574674
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,2,275592,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,2,275592,0.92,3.810908269501524,interval_width,standard_reference,0.5463840961456299
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,2,275592,0.92,3.831246327973204,interval_width,spi_fast_form,0.5565531253814697
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,2,275592,0.86,2.833211844586887,interval_width,rsa_cp_barycentric_ot_betabin,0.05753588368831145
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,3,2731692,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,3,2731692,0.97,3.645624028868915,interval_width,standard_reference,0.453180193901062
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,3,2731692,0.97,3.98963009042287,interval_width,spi_fast_form,0.6251832246780396
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,3,2731692,0.98,4.143044713901232,interval_width,rsa_cp_barycentric_ot_betabin,0.70189053641722
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,4,1441594,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,4,1441594,0.935,3.573788275679981,interval_width,standard_reference,0.4462360143661499
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,4,1441594,0.935,3.5824965142816656,interval_width,spi_fast_form,0.4505901336669922
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,4,1441594,0.945,3.7238983643070895,interval_width,rsa_cp_barycentric_ot_betabin,0.5212910586797039
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,5,7551662,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,5,7551662,0.95,3.6331025626481277,interval_width,standard_reference,0.5475614070892334
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,5,7551662,0.995,4.960323717814754,interval_width,spi_fast_form,1.2111719846725464
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,5,7551662,0.995,5.3224083962841835,interval_width,rsa_cp_barycentric_ot_betabin,1.392214323907262
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,6,4731878,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,6,4731878,0.96,4.062966130829591,interval_width,standard_reference,0.5039712190628052
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,6,4731878,0.96,4.085354350662965,interval_width,spi_fast_form,0.5151653289794922
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,6,4731878,0.96,4.174715935118986,interval_width,rsa_cp_barycentric_ot_betabin,0.5598461212075027
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,7,9486483,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,7,9486483,0.96,3.468901655992959,interval_width,standard_reference,0.5527167320251465
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,7,9486483,0.96,3.4765744427056053,interval_width,spi_fast_form,0.5565531253814697
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,7,9486483,0.87,2.6542375656049955,interval_width,rsa_cp_barycentric_ot_betabin,0.14538468683116507
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,8,857393,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,8,857393,0.97,3.6938299921539146,interval_width,standard_reference,0.5463840961456299
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,8,857393,0.97,3.6961846140411216,interval_width,spi_fast_form,0.5475614070892334
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,8,857393,0.985,3.848309376361598,interval_width,rsa_cp_barycentric_ot_betabin,0.6236237882494712
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,9,4233261,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,9,4233261,0.91,3.7895936501119287,interval_width,standard_reference,0.5267912149429321
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,9,4233261,0.94,4.173912955531851,interval_width,spi_fast_form,0.7189508676528931
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,9,4233261,0.995,5.695831601126587,interval_width,rsa_cp_barycentric_ot_betabin,1.4799101904502605
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,10,9504621,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,10,9504621,0.94,3.4720976774633163,interval_width,standard_reference,0.4191257953643799
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,10,9504621,0.965,4.289808792346739,interval_width,spi_fast_form,0.8279813528060913
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,10,9504621,0.97,4.411794945425284,interval_width,rsa_cp_barycentric_ot_betabin,0.8889744293453645
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,11,5118207,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,11,5118207,0.935,3.4333996803706395,interval_width,standard_reference,0.4974013566970825
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,11,5118207,0.935,3.451352360958408,interval_width,spi_fast_form,0.5063776969909668
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,11,5118207,0.845,2.4385969669764744,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,12,8690244,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,12,8690244,0.925,3.7160843364702303,interval_width,standard_reference,0.602168083190918
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,12,8690244,0.935,3.7987125865923006,interval_width,spi_fast_form,0.6434822082519531
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,12,8690244,0.965,4.298642129061312,interval_width,rsa_cp_barycentric_ot_betabin,0.8934469794864582
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,13,8229426,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,13,8229426,0.95,3.6120357237456484,interval_width,standard_reference,0.5587759017944336
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,13,8229426,0.95,3.652182074606244,interval_width,spi_fast_form,0.5788490772247314
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,13,8229426,0.885,2.6689373815105957,interval_width,rsa_cp_barycentric_ot_betabin,0.08722673067690778
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,14,348525,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,14,348525,0.945,3.6283563716852223,interval_width,standard_reference,0.5093662738800049
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,14,348525,0.945,3.633580241962627,interval_width,spi_fast_form,0.5119782090187073
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,14,348525,0.92,3.0044437172213465,interval_width,rsa_cp_barycentric_ot_betabin,0.1974099466480668
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,15,8277021,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,15,8277021,0.965,3.7677623110383864,interval_width,standard_reference,0.5984214544296265
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,15,8277021,0.97,3.80857003503741,interval_width,spi_fast_form,0.6188253164291382
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,15,8277021,0.91,3.2533306292212942,interval_width,rsa_cp_barycentric_ot_betabin,0.34120561352108064
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,16,3118312,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,16,3118312,0.92,3.2525312979822045,interval_width,standard_reference,0.3641660213470459
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,16,3118312,0.92,3.259807356179226,interval_width,spi_fast_form,0.36780405044555664
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,16,3118312,0.945,3.623138380671935,interval_width,rsa_cp_barycentric_ot_betabin,0.5494695626919115
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,17,4091990,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,17,4091990,0.94,3.9295525644745792,interval_width,standard_reference,0.4699833393096924
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,17,4091990,0.94,3.9719979856934513,interval_width,spi_fast_form,0.4912060499191284
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,17,4091990,0.865,3.055555606555621,interval_width,rsa_cp_barycentric_ot_betabin,0.032984860350213356
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,18,2569919,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,18,2569919,0.95,3.571565524816979,interval_width,standard_reference,0.48155665397644043
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,18,2569919,0.95,3.5826162259583363,interval_width,spi_fast_form,0.48708200454711914
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,18,2569919,0.945,3.3553589857606014,interval_width,rsa_cp_barycentric_ot_betabin,0.37345338444825193
+Figure 9,MEPS,0-20,SCP,0.05,0.95,15,1000,200,19,5495936,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,0-20,Synthetic-only,0.05,0.95,15,1000,200,19,5495936,0.935,3.579940733658441,interval_width,standard_reference,0.5468635559082031
+Figure 9,MEPS,0-20,SPI,0.05,0.95,15,1000,200,19,5495936,0.935,3.6037654254309017,interval_width,spi_fast_form,0.5587759017944336
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,19,5495936,0.915,3.3807048269163165,interval_width,rsa_cp_barycentric_ot_betabin,0.4472456025371411
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,0,2492284,0.91,2.7291709074634127,interval_width,standard_real,0.20813536643981934
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,0,2492284,0.915,2.789546597923618,interval_width,standard_reference,0.23832321166992188
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,0,2492284,0.915,2.7936679014819674,interval_width,spi_fast_form,0.24038386344909668
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,0,2492284,0.805,2.312900174583774,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,1,6438288,0.83,2.090264073999133,interval_width,standard_real,0.01771913655102253
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,1,6438288,0.895,2.5451042833342217,interval_width,standard_reference,0.2451392412185669
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,1,6438288,0.895,2.562595862390008,interval_width,spi_fast_form,0.25388503074645996
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,1,6438288,0.795,2.054825800897088,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,2,275592,0.825,2.3541333718167152,interval_width,standard_real,0.03429459035396576
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,2,275592,0.875,2.7617848260269966,interval_width,standard_reference,0.23812031745910645
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,2,275592,0.88,2.766311918006977,interval_width,spi_fast_form,0.24038386344909668
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,2,275592,0.775,2.295955013221479,interval_width,rsa_cp_barycentric_ot_betabin,0.005205411056347622
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,3,2731692,0.98,3.941362062219996,interval_width,standard_real,0.850317120552063
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,3,2731692,0.905,2.675971666101832,interval_width,standard_reference,0.21762192249298096
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,3,2731692,0.91,2.6943420560401865,interval_width,spi_fast_form,0.2268071174621582
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,3,2731692,0.965,3.3574392310248053,interval_width,rsa_cp_barycentric_ot_betabin,0.5583557049544675
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,4,1441594,0.965,3.795328832496889,interval_width,standard_real,0.7829456329345703
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,4,1441594,0.905,2.5377969511644913,interval_width,standard_reference,0.15417969226837158
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,4,1441594,0.915,2.6885335215227677,interval_width,spi_fast_form,0.22954797744750977
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,4,1441594,0.945,3.459158072420191,interval_width,rsa_cp_barycentric_ot_betabin,0.6148602528962214
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,5,7551662,0.995,5.494739186038496,interval_width,standard_real,1.6682438850402832
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,5,7551662,0.885,2.5360428206820504,interval_width,standard_reference,0.18889570236206055
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,5,7551662,0.885,2.556654822101118,interval_width,spi_fast_form,0.19920170307159424
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,5,7551662,0.995,4.66416421388922,interval_width,rsa_cp_barycentric_ot_betabin,1.2529563989656454
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,6,4731878,0.985,4.765632849024842,interval_width,standard_real,1.1219741106033325
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,6,4731878,0.89,2.900763016032288,interval_width,standard_reference,0.18953919410705566
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,6,4731878,0.9,2.927545528697083,interval_width,spi_fast_form,0.20293045043945312
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,6,4731878,0.905,2.9890487231052294,interval_width,rsa_cp_barycentric_ot_betabin,0.23368204764352604
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,7,9486483,0.895,2.46260389719042,interval_width,standard_real,0.20022404193878174
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,7,9486483,0.91,2.567746490574209,interval_width,standard_reference,0.25279533863067627
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,7,9486483,0.91,2.5699258748057763,interval_width,spi_fast_form,0.25388503074645996
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,7,9486483,0.815,2.06521731361722,interval_width,rsa_cp_barycentric_ot_betabin,0.0015307501521819257
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,8,857393,1.0,4.369682090521092,interval_width,standard_real,1.0837790966033936
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,8,857393,0.945,2.7740285565855447,interval_width,standard_reference,0.2859523296356201
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,8,857393,0.945,2.7762046029570047,interval_width,spi_fast_form,0.2870403528213501
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,8,857393,0.95,2.9649647446356857,interval_width,rsa_cp_barycentric_ot_betabin,0.3814204236606904
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,9,4233261,1.0,6.3632147624064235,interval_width,standard_real,2.0503101348876953
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,9,4233261,0.88,2.819483788209036,interval_width,standard_reference,0.27844464778900146
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,9,4233261,0.88,2.820822031693533,interval_width,spi_fast_form,0.27911376953125
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,9,4233261,0.95,3.9119025354587005,interval_width,rsa_cp_barycentric_ot_betabin,0.8246540214138333
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,10,9504621,0.97,3.930160472369753,interval_width,standard_real,0.8693203926086426
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,10,9504621,0.9,2.5071432089572774,interval_width,standard_reference,0.15781176090240479
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,10,9504621,0.9,2.513661334491335,interval_width,spi_fast_form,0.1610708236694336
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,10,9504621,0.965,3.7988113495998705,interval_width,rsa_cp_barycentric_ot_betabin,0.8036458312237018
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,11,5118207,0.865,2.228710540771717,interval_width,standard_real,0.058440160006284714
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,11,5118207,0.91,2.5812153678538743,interval_width,standard_reference,0.23469257354736328
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,11,5118207,0.91,2.5841317039134446,interval_width,spi_fast_form,0.23615074157714844
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,11,5118207,0.865,2.2146300965635852,interval_width,rsa_cp_barycentric_ot_betabin,0.05139993790221896
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,12,8690244,0.975,4.292972395723918,interval_width,standard_real,1.0640331506729126
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,12,8690244,0.88,2.7663472393213304,interval_width,standard_reference,0.30072057247161865
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,12,8690244,0.895,2.9623459079919847,interval_width,spi_fast_form,0.3987199068069458
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,12,8690244,0.935,3.373917460564676,interval_width,rsa_cp_barycentric_ot_betabin,0.6045056830932913
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,13,8229426,0.915,2.7995531333517283,interval_width,standard_real,0.32510459423065186
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,13,8229426,0.905,2.6352534068655222,interval_width,standard_reference,0.24295473098754883
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,13,8229426,0.91,2.6571140063833445,interval_width,spi_fast_form,0.25388503074645996
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,13,8229426,0.815,2.1545493559467723,interval_width,rsa_cp_barycentric_ot_betabin,0.002602705528173811
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,14,348525,0.925,2.8688076556916347,interval_width,standard_real,0.32548773288726807
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,14,348525,0.9,2.600913626074325,interval_width,standard_reference,0.19154071807861328
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,14,348525,0.9,2.6051419795746913,interval_width,spi_fast_form,0.1936548948287964
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,14,348525,0.895,2.5781609054404777,interval_width,rsa_cp_barycentric_ot_betabin,0.18016435776168907
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,15,8277021,0.9,2.829358749319799,interval_width,standard_real,0.2916851043701172
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,15,8277021,0.885,2.6859812068240716,interval_width,standard_reference,0.21999633312225342
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,15,8277021,0.885,2.6859812068240716,interval_width,spi_fast_form,0.21999633312225342
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,15,8277021,0.875,2.6474068006872757,interval_width,rsa_cp_barycentric_ot_betabin,0.20070913005385502
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,16,3118312,0.95,3.468380972216837,interval_width,standard_real,0.6701663732528687
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,16,3118312,0.87,2.3952012503845617,interval_width,standard_reference,0.13357651233673096
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,16,3118312,0.87,2.4022717917663976,interval_width,spi_fast_form,0.13711178302764893
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,16,3118312,0.88,2.514529831877304,interval_width,rsa_cp_barycentric_ot_betabin,0.193240803083102
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,17,4091990,0.855,2.5314974670123775,interval_width,standard_real,0.048914432525634766
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,17,4091990,0.885,2.867032516450854,interval_width,standard_reference,0.21668195724487305
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,17,4091990,0.885,2.877100217790576,interval_width,spi_fast_form,0.2217158079147339
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,17,4091990,0.805,2.433668601961108,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,18,2569919,0.935,2.844698399171466,interval_width,standard_real,0.3225489854812622
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,18,2569919,0.925,2.59800383435213,interval_width,standard_reference,0.19920170307159424
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,18,2569919,0.925,2.598454445466632,interval_width,spi_fast_form,0.19942700862884521
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,18,2569919,0.93,2.7001557279724318,interval_width,rsa_cp_barycentric_ot_betabin,0.25027764988174483
+Figure 9,MEPS,0-20,SCP,0.1,0.9,15,1000,200,19,5495936,0.9,2.8379026698938103,interval_width,standard_real,0.352816104888916
+Figure 9,MEPS,0-20,Synthetic-only,0.1,0.9,15,1000,200,19,5495936,0.875,2.606100206362316,interval_width,standard_reference,0.23691487312316895
+Figure 9,MEPS,0-20,SPI,0.1,0.9,15,1000,200,19,5495936,0.875,2.6130381870141717,interval_width,spi_fast_form,0.24038386344909668
+Figure 9,MEPS,0-20,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,19,5495936,0.9,2.8089738974411693,interval_width,rsa_cp_barycentric_ot_betabin,0.33835171866259545
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,0,2492284,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,0,2492284,0.94,3.3243342226161623,interval_width,standard_reference,0.3604581356048584
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,0,2492284,0.94,3.3533449953212404,interval_width,spi_fast_form,0.37496352195739746
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,0,2492284,0.91,2.6034179514064455,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,1,6438288,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,1,6438288,0.94,3.1319215590704697,interval_width,standard_reference,0.1977062225341797
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,1,6438288,0.94,3.134234457706334,interval_width,spi_fast_form,0.19886267185211182
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,1,6438288,0.94,3.0308943091620995,interval_width,rsa_cp_barycentric_ot_betabin,0.1471925975799942
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,2,275592,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,2,275592,0.975,3.207747387908748,interval_width,standard_reference,0.1543436050415039
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,2,275592,0.975,3.3061959028471026,interval_width,spi_fast_form,0.20356786251068115
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,2,275592,0.965,2.8990601778257403,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,3,2731692,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,3,2731692,0.96,2.997572304221394,interval_width,standard_reference,0.22478199005126953
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,3,2731692,0.96,3.0221041454994704,interval_width,spi_fast_form,0.23704791069030762
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,3,2731692,0.945,2.548008324118855,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,4,1441594,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,4,1441594,0.925,2.7827039870261796,interval_width,standard_reference,0.13604378700256348
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,4,1441594,0.925,2.832985988521541,interval_width,spi_fast_form,0.16118478775024414
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,4,1441594,0.935,3.1533134336797617,interval_width,rsa_cp_barycentric_ot_betabin,0.3213485103293547
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,5,7551662,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,5,7551662,0.945,3.1737901492370293,interval_width,standard_reference,0.16836512088775635
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,5,7551662,0.95,3.262879304434173,interval_width,spi_fast_form,0.21290969848632812
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,5,7551662,0.945,3.1194971850552804,interval_width,rsa_cp_barycentric_ot_betabin,0.14121863879688168
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,6,4731878,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,6,4731878,0.93,3.1418335531794583,interval_width,standard_reference,0.25927305221557617
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,6,4731878,0.935,3.156915912493423,interval_width,spi_fast_form,0.2668142318725586
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,6,4731878,0.905,2.623287448748306,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,7,9486483,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,7,9486483,0.95,2.8728126836701993,interval_width,standard_reference,0.14314484596252441
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,7,9486483,0.985,4.654241497604525,interval_width,spi_fast_form,1.0338592529296875
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,7,9486483,0.985,4.873530153614536,interval_width,rsa_cp_barycentric_ot_betabin,1.1435035809346927
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,8,857393,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,8,857393,0.935,3.091595884996059,interval_width,standard_reference,0.1743069887161255
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,8,857393,0.935,3.1123042075210834,interval_width,spi_fast_form,0.1846611499786377
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,8,857393,0.92,2.742981907563808,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,9,4233261,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,9,4233261,0.975,3.0038933239743346,interval_width,standard_reference,0.14052355289459229
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,9,4233261,0.975,3.0965284786984557,interval_width,spi_fast_form,0.18684113025665283
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,9,4233261,0.975,3.5791243137471946,interval_width,rsa_cp_barycentric_ot_betabin,0.42813904778102224
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,10,9504621,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,10,9504621,0.985,3.069267081976286,interval_width,standard_reference,0.23612046241760254
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,10,9504621,0.985,3.0839722630981123,interval_width,spi_fast_form,0.24347305297851562
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,10,9504621,0.985,3.256977555646795,interval_width,rsa_cp_barycentric_ot_betabin,0.32997569925285714
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,11,5118207,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,11,5118207,0.95,3.3901485102437436,interval_width,standard_reference,0.37818288803100586
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,11,5118207,0.95,3.4203365938924253,interval_width,spi_fast_form,0.3932769298553467
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,11,5118207,0.945,2.9599305428316733,interval_width,rsa_cp_barycentric_ot_betabin,0.16307390432497051
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,12,8690244,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,12,8690244,0.945,3.0056323651756975,interval_width,standard_reference,0.1846611499786377
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,12,8690244,0.945,3.0315603856529925,interval_width,spi_fast_form,0.19762516021728516
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,12,8690244,0.945,3.0659252086851194,interval_width,rsa_cp_barycentric_ot_betabin,0.2148075717333484
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,13,8229426,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,13,8229426,0.935,3.013367057069554,interval_width,standard_reference,0.14052355289459229
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,13,8229426,0.935,3.0323244335496566,interval_width,spi_fast_form,0.15000224113464355
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,13,8229426,0.92,2.8588551835969134,interval_width,rsa_cp_barycentric_ot_betabin,0.06326761615827194
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,14,348525,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,14,348525,0.935,3.1223411292792296,interval_width,standard_reference,0.22478199005126953
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,14,348525,0.935,3.1468729705573057,interval_width,spi_fast_form,0.23704791069030762
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,14,348525,0.92,2.6727771491766905,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,15,8277021,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,15,8277021,0.95,3.0264459988317687,interval_width,standard_reference,0.1543436050415039
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,15,8277021,0.955,3.06360806433775,interval_width,spi_fast_form,0.17292463779449463
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,15,8277021,0.96,3.1503809679201606,interval_width,rsa_cp_barycentric_ot_betabin,0.21631108958569972
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,16,3118312,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,16,3118312,0.955,3.232979409301188,interval_width,standard_reference,0.1590719223022461
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,16,3118312,0.98,3.9784835501550697,interval_width,spi_fast_form,0.531823992729187
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,16,3118312,0.985,4.441683867344438,interval_width,rsa_cp_barycentric_ot_betabin,0.7634241513238713
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,17,4091990,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,17,4091990,0.915,2.5059913463713017,interval_width,standard_reference,0.007802009582519531
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,17,4091990,0.915,2.5287503070951787,interval_width,spi_fast_form,0.019181489944458008
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,17,4091990,0.915,2.581773883879322,interval_width,rsa_cp_barycentric_ot_betabin,0.04569327833652973
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,18,2569919,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,18,2569919,0.965,3.210647625666752,interval_width,standard_reference,0.2537049651145935
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,18,2569919,0.965,3.2217837998687173,interval_width,spi_fast_form,0.25927305221557617
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,18,2569919,0.965,3.145651913945635,interval_width,rsa_cp_barycentric_ot_betabin,0.22120710925403464
+Figure 9,MEPS,20-40,SCP,0.05,0.95,15,1000,200,19,5495936,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,20-40,Synthetic-only,0.05,0.95,15,1000,200,19,5495936,0.925,2.7768095948494738,interval_width,standard_reference,0.10045599937438965
+Figure 9,MEPS,20-40,SPI,0.05,0.95,15,1000,200,19,5495936,0.93,2.7920302369393175,interval_width,spi_fast_form,0.10806632041931152
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,19,5495936,0.92,2.5758975961006945,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,0,2492284,0.865,2.353015256661456,interval_width,standard_real,0.01737912930548191
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,0,2492284,0.885,2.4530850738170558,interval_width,standard_reference,0.06741403788328171
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,0,2492284,0.885,2.455583849537652,interval_width,spi_fast_form,0.06866342574357986
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,0,2492284,0.86,2.3250263861716998,interval_width,rsa_cp_barycentric_ot_betabin,0.0033846940606039604
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,1,6438288,0.975,3.675779321824666,interval_width,standard_real,0.6455504894256592
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,1,6438288,0.9,2.4703704282990655,interval_width,standard_reference,0.04284604266285896
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,1,6438288,0.9,2.4730256960145196,interval_width,spi_fast_form,0.044173676520586014
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,1,6438288,0.91,2.5589942043756086,interval_width,rsa_cp_barycentric_ot_betabin,0.08715793070113045
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,2,275592,0.93,2.637723259348422,interval_width,standard_real,0.07608911395072937
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,2,275592,0.915,2.5896450203843413,interval_width,standard_reference,0.052049994468688965
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,2,275592,0.915,2.592646471876651,interval_width,spi_fast_form,0.05355072021484375
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,2,275592,0.88,2.4855450314469634,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,3,2731692,0.86,2.2322189460950903,interval_width,standard_real,-0.005690904799848795
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,3,2731692,0.915,2.30301582417218,interval_width,standard_reference,0.0297075342386961
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,3,2731692,0.915,2.3067809639009647,interval_width,spi_fast_form,0.03159010410308838
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,3,2731692,0.885,2.243600755694788,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,4,1441594,0.99,4.763869390062755,interval_width,standard_real,1.2732187509536743
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,4,1441594,0.9,2.335090503267711,interval_width,standard_reference,0.058829307556152344
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,4,1441594,0.9,2.335097178987926,interval_width,spi_fast_form,0.058832645416259766
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,4,1441594,0.875,2.2456505186368743,interval_width,rsa_cp_barycentric_ot_betabin,0.014109315240733694
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,5,7551662,0.94,3.053062802607892,interval_width,standard_real,0.2980196475982666
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,5,7551662,0.885,2.541492423469899,interval_width,standard_reference,0.04223445802927017
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,5,7551662,0.885,2.5465882778714874,interval_width,spi_fast_form,0.04478238523006439
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,5,7551662,0.845,2.4570235074113587,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,6,4731878,0.835,2.3030286892445293,interval_width,standard_real,-0.0034519603941589594
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,6,4731878,0.875,2.428314110276988,interval_width,standard_reference,0.05919075012207031
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,6,4731878,0.88,2.444033211109927,interval_width,spi_fast_form,0.06705030053853989
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,6,4731878,0.845,2.3099326100328472,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,7,9486483,0.985,5.260268836098257,interval_width,standard_real,1.4880750179290771
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,7,9486483,0.885,2.3338199209445154,interval_width,standard_reference,0.02485056035220623
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,7,9486483,0.96,3.6082355070882475,interval_width,spi_fast_form,0.6620583534240723
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,7,9486483,0.985,5.035135830132669,interval_width,rsa_cp_barycentric_ot_betabin,1.3755085149462831
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,8,857393,0.91,2.7749298839282712,interval_width,standard_real,0.1901085376739502
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,8,857393,0.895,2.4908983437728605,interval_width,standard_reference,0.04809276759624481
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,8,857393,0.895,2.4923137454700193,interval_width,spi_fast_form,0.04880046844482422
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,8,857393,0.895,2.504854909937654,interval_width,rsa_cp_barycentric_ot_betabin,0.05507105067864159
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,9,4233261,0.985,4.802221487131901,interval_width,standard_real,1.2117143869400024
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,9,4233261,0.915,2.4760984879406167,interval_width,standard_reference,0.04865288734436035
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,9,4233261,0.915,2.4841048222454263,interval_width,spi_fast_form,0.05265605449676514
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,9,4233261,0.93,2.656972123090162,interval_width,rsa_cp_barycentric_ot_betabin,0.13908970491913325
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,10,9504621,0.985,3.8898260659677906,interval_width,standard_real,0.7852026224136353
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,10,9504621,0.935,2.507845408390276,interval_width,standard_reference,0.09421229362487793
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,10,9504621,0.935,2.5129132337076587,interval_width,spi_fast_form,0.09674620628356934
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,10,9504621,0.9,2.31942082114052,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,11,5118207,0.94,3.1118470491515473,interval_width,standard_real,0.40020179748535156
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,11,5118207,0.91,2.522147318874486,interval_width,standard_reference,0.10535193234682083
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,11,5118207,0.91,2.530749505911954,interval_width,spi_fast_form,0.10965302586555481
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,11,5118207,0.845,2.311443454180844,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,12,8690244,0.95,3.404522655319888,interval_width,standard_real,0.5282278060913086
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,12,8690244,0.92,2.4533791521308013,interval_width,standard_reference,0.05265605449676514
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,12,8690244,0.92,2.4573612192389556,interval_width,spi_fast_form,0.054647088050842285
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,12,8690244,0.93,2.67906005124054,interval_width,rsa_cp_barycentric_ot_betabin,0.1654965040516343
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,13,8229426,0.96,3.81604569992749,interval_width,standard_real,0.7041301727294922
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,13,8229426,0.89,2.501547275397461,interval_width,standard_reference,0.04688096046447754
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,13,8229426,0.89,2.501707418176811,interval_width,spi_fast_form,0.04696103185415268
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,13,8229426,0.845,2.411479647704709,interval_width,rsa_cp_barycentric_ot_betabin,0.001847146618101544
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,14,348525,0.905,2.682402166374959,interval_width,standard_real,0.16798539459705353
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,14,348525,0.88,2.4173246648395432,interval_width,standard_reference,0.0354466438293457
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,14,348525,0.885,2.4213224675739182,interval_width,spi_fast_form,0.0374455451965332
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,14,348525,0.895,2.502809621098984,interval_width,rsa_cp_barycentric_ot_betabin,0.07818912195906588
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,15,8277021,0.985,4.3430849871994,interval_width,standard_real,0.961517333984375
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,15,8277021,0.91,2.5057424045563677,interval_width,standard_reference,0.04284604266285896
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,15,8277021,0.91,2.509889144396875,interval_width,spi_fast_form,0.04491941258311272
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,15,8277021,0.905,2.472297213464233,interval_width,rsa_cp_barycentric_ot_betabin,0.026123447116791522
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,16,3118312,0.985,4.807716272035614,interval_width,standard_real,1.1375360488891602
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,16,3118312,0.91,2.622482999423519,interval_width,standard_reference,0.04491941258311272
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,16,3118312,0.91,2.6239138759765774,interval_width,spi_fast_form,0.04563485085964203
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,16,3118312,0.95,3.1657512141089437,interval_width,rsa_cp_barycentric_ot_betabin,0.3165535199258251
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,17,4091990,0.975,4.2136380836111496,interval_width,standard_real,1.0019826889038086
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,17,4091990,0.875,2.2664068095129917,interval_width,standard_reference,0.028367051854729652
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,17,4091990,0.875,2.2765720054251144,interval_width,spi_fast_form,0.033449649810791016
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,17,4091990,0.85,2.2096727058035324,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,18,2569919,0.975,3.810630687968805,interval_width,standard_real,0.7173912525177002
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,18,2569919,0.9,2.5171441673208026,interval_width,standard_reference,0.07064799219369888
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,18,2569919,0.9,2.521515735881403,interval_width,spi_fast_form,0.07283377647399902
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,18,2569919,0.875,2.375848182933405,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,20-40,SCP,0.1,0.9,15,1000,200,19,5495936,0.91,2.77559794214787,interval_width,standard_real,0.2458503097295761
+Figure 9,MEPS,20-40,Synthetic-only,0.1,0.9,15,1000,200,19,5495936,0.88,2.3704918446880767,interval_width,standard_reference,0.043297260999679565
+Figure 9,MEPS,20-40,SPI,0.1,0.9,15,1000,200,19,5495936,0.88,2.3706778707844207,interval_width,spi_fast_form,0.04339027404785156
+Figure 9,MEPS,20-40,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,19,5495936,0.88,2.37398692340305,interval_width,rsa_cp_barycentric_ot_betabin,0.04504480035716616
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,0,2492284,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,0,2492284,0.95,3.6171236217141267,interval_width,standard_reference,0.4451802968978882
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,0,2492284,0.95,3.633523720514786,interval_width,spi_fast_form,0.4533803462982178
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,0,2492284,0.88,2.8414177700087366,interval_width,rsa_cp_barycentric_ot_betabin,0.05732737104519293
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,1,6438288,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,1,6438288,0.955,3.78573395827465,interval_width,standard_reference,0.5774469375610352
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,1,6438288,0.955,3.8178322515790932,interval_width,spi_fast_form,0.5934960842132568
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,1,6438288,0.965,4.065142074786028,interval_width,rsa_cp_barycentric_ot_betabin,0.7171509958167247
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,2,275592,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,2,275592,0.98,3.8713412355148464,interval_width,standard_reference,0.5934960842132568
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,2,275592,0.98,3.8844504426681667,interval_width,spi_fast_form,0.600050687789917
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,2,275592,0.98,3.8527660345260855,interval_width,rsa_cp_barycentric_ot_betabin,0.5842084837188767
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,3,2731692,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,3,2731692,0.975,3.7967680038692198,interval_width,standard_reference,0.5070276260375977
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,3,2731692,0.975,3.8044040741206846,interval_width,spi_fast_form,0.5108456611633301
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,3,2731692,0.925,3.019922296402226,interval_width,rsa_cp_barycentric_ot_betabin,0.11860477230410073
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,4,1441594,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,4,1441594,0.96,3.6437265072917215,interval_width,standard_reference,0.5070276260375977
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,4,1441594,0.965,3.6689039860820047,interval_width,spi_fast_form,0.5196163654327393
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,4,1441594,0.945,3.4537281124196464,interval_width,rsa_cp_barycentric_ot_betabin,0.4120284286015604
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,5,7551662,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,5,7551662,0.98,3.884646527416771,interval_width,standard_reference,0.5931048393249512
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,5,7551662,0.985,3.952418915875023,interval_width,spi_fast_form,0.6269910335540771
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,5,7551662,0.87,2.698436848766869,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,6,4731878,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,6,4731878,0.955,3.7911047284014057,interval_width,standard_reference,0.5108456611633301
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,6,4731878,0.955,3.801956111610634,interval_width,spi_fast_form,0.5162713527679443
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,6,4731878,0.895,2.908504457231372,interval_width,rsa_cp_barycentric_ot_betabin,0.0695455255783136
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,7,9486483,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,7,9486483,0.965,3.937627810861741,interval_width,standard_reference,0.5931048393249512
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,7,9486483,0.965,3.9515195077916725,interval_width,spi_fast_form,0.600050687789917
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,7,9486483,0.955,3.4205621097710064,interval_width,rsa_cp_barycentric_ot_betabin,0.3345719887795842
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,8,857393,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,8,857393,0.96,3.727792657823884,interval_width,standard_reference,0.5222747325897217
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,8,857393,0.96,3.7485174312308662,interval_width,spi_fast_form,0.5326371192932129
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,8,857393,0.945,3.2788503239526756,interval_width,rsa_cp_barycentric_ot_betabin,0.2978035656541174
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,9,4233261,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,9,4233261,0.96,3.5886675995963744,interval_width,standard_reference,0.49225854873657227
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,9,4233261,0.985,4.329047171511047,interval_width,spi_fast_form,0.8624483346939087
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,9,4233261,0.985,4.470040297237329,interval_width,rsa_cp_barycentric_ot_betabin,0.9329448975570489
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,10,9504621,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,10,9504621,0.975,3.7387154120989727,interval_width,standard_reference,0.4533803462982178
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,10,9504621,0.98,3.9919209498949932,interval_width,spi_fast_form,0.579983115196228
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,10,9504621,0.98,4.6251344723773995,interval_width,rsa_cp_barycentric_ot_betabin,0.8965898764374305
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,11,5118207,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,11,5118207,0.975,3.4404081547315584,interval_width,standard_reference,0.44366395473480225
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,11,5118207,0.975,3.4625472271497713,interval_width,spi_fast_form,0.4547334909439087
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,11,5118207,0.97,3.1794020475462235,interval_width,rsa_cp_barycentric_ot_betabin,0.31316090114213485
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,12,8690244,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,12,8690244,0.945,3.769187006475404,interval_width,standard_reference,0.468267560005188
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,12,8690244,0.945,3.7752402157802134,interval_width,spi_fast_form,0.4712941646575928
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,12,8690244,0.94,3.3791933250895148,interval_width,rsa_cp_barycentric_ot_betabin,0.27327071931224317
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,13,8229426,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,13,8229426,0.93,3.826673519187316,interval_width,standard_reference,0.4487595558166504
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,13,8229426,0.93,3.8359151001504506,interval_width,spi_fast_form,0.4533803462982178
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,13,8229426,0.87,2.929154407554015,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,14,348525,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,14,348525,0.985,4.021831324741942,interval_width,standard_reference,0.6883480548858643
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,14,348525,0.985,4.036048701450927,interval_width,spi_fast_form,0.6954567432403564
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,14,348525,0.96,3.4710247046013865,interval_width,rsa_cp_barycentric_ot_betabin,0.412944744815586
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,15,8277021,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,15,8277021,0.96,3.730010901983769,interval_width,standard_reference,0.5520641803741455
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,15,8277021,0.96,3.7413434138856245,interval_width,spi_fast_form,0.5577304363250732
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,15,8277021,0.87,2.625882541235478,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,16,3118312,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,16,3118312,0.965,3.613642017758975,interval_width,standard_reference,0.4547334909439087
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,16,3118312,0.965,3.657323877729068,interval_width,spi_fast_form,0.4765744209289551
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,16,3118312,0.965,3.5755532170898308,interval_width,rsa_cp_barycentric_ot_betabin,0.43568909060933586
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,17,4091990,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,17,4091990,0.975,3.889864491368935,interval_width,standard_reference,0.600050687789917
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,17,4091990,0.975,3.8972926606194234,interval_width,spi_fast_form,0.6037647724151611
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,17,4091990,0.885,2.689763115789101,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,18,2569919,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,18,2569919,0.94,3.5606731271746686,interval_width,standard_reference,0.39829087257385254
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,18,2569919,0.94,3.6077774858477643,interval_width,spi_fast_form,0.4218430519104004
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,18,2569919,0.92,3.2072330890197893,interval_width,rsa_cp_barycentric_ot_betabin,0.2215708534964134
+Figure 9,MEPS,40-60,SCP,0.05,0.95,15,1000,200,19,5495936,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,40-60,Synthetic-only,0.05,0.95,15,1000,200,19,5495936,0.93,3.4133216923166767,interval_width,standard_reference,0.4218430519104004
+Figure 9,MEPS,40-60,SPI,0.05,0.95,15,1000,200,19,5495936,0.94,3.5167753284861103,interval_width,spi_fast_form,0.4735698699951172
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,19,5495936,0.87,2.569635588495876,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,0,2492284,0.87,2.7822388356225565,interval_width,standard_real,0.20471316576004028
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,0,2492284,0.875,2.7944920008676126,interval_width,standard_reference,0.21083974838256836
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,0,2492284,0.885,2.8116068785684183,interval_width,spi_fast_form,0.2193971872329712
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,0,2492284,0.845,2.5528096521278907,interval_width,rsa_cp_barycentric_ot_betabin,0.0899985740127075
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,1,6438288,0.97,4.717843049257063,interval_width,standard_real,1.2113559246063232
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,1,6438288,0.9,2.886423581331037,interval_width,standard_reference,0.29564619064331055
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,1,6438288,0.9,2.9066376621415837,interval_width,spi_fast_form,0.305753231048584
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,1,6438288,0.95,3.797208097672247,interval_width,rsa_cp_barycentric_ot_betabin,0.7510384488139159
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,2,275592,0.965,3.9406756849295927,interval_width,standard_real,0.8130797147750854
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,2,275592,0.93,2.926926562309964,interval_width,standard_reference,0.306205153465271
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,2,275592,0.93,2.927340218544705,interval_width,spi_fast_form,0.3064119815826416
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,2,275592,0.96,3.5509525441020093,interval_width,rsa_cp_barycentric_ot_betabin,0.6182181443612942
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,3,2731692,0.94,3.251316977520473,interval_width,standard_real,0.416873574256897
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,3,2731692,0.925,3.074077797909267,interval_width,standard_reference,0.32825398445129395
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,3,2731692,0.925,3.0865585336880756,interval_width,spi_fast_form,0.33449435234069824
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,3,2731692,0.91,2.965102093275848,interval_width,rsa_cp_barycentric_ot_betabin,0.27376613213458423
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,4,1441594,0.95,3.706508898383472,interval_width,standard_real,0.694709300994873
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,4,1441594,0.91,2.948412680274341,interval_width,standard_reference,0.3156611919403076
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,4,1441594,0.91,2.9727483030618167,interval_width,spi_fast_form,0.3278290033340454
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,4,1441594,0.945,3.5497257456027085,interval_width,rsa_cp_barycentric_ot_betabin,0.6163177246044912
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,5,7551662,0.82,2.348457875988679,interval_width,standard_real,-0.0001766798086464405
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,5,7551662,0.885,3.095562544047134,interval_width,standard_reference,0.37337565422058105
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,5,7551662,0.885,3.1115547086589506,interval_width,spi_fast_form,0.38137173652648926
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,5,7551662,0.82,2.348811235605972,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,6,4731878,0.9,3.191445530788042,interval_width,standard_real,0.40124011039733887
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,6,4731878,0.9,3.0728821171680467,interval_width,standard_reference,0.3419584035873413
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,6,4731878,0.9,3.0908140553394334,interval_width,spi_fast_form,0.35092437267303467
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,6,4731878,0.845,2.388965309993364,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,7,9486483,0.94,3.4922748325101565,interval_width,standard_real,0.5575432777404785
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,7,9486483,0.925,3.049574446462793,interval_width,standard_reference,0.3361930847167969
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,7,9486483,0.925,3.061105084203882,interval_width,spi_fast_form,0.3419584035873413
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,7,9486483,0.875,2.5897007641533936,interval_width,rsa_cp_barycentric_ot_betabin,0.10625624356209742
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,8,857393,0.925,3.249097525776597,interval_width,standard_real,0.45801758766174316
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,8,857393,0.885,3.002051055134507,interval_width,standard_reference,0.33449435234069824
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,8,857393,0.89,3.021924674214097,interval_width,spi_fast_form,0.34443116188049316
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,8,857393,0.905,3.146555954516024,interval_width,rsa_cp_barycentric_ot_betabin,0.4067468020314573
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,9,4233261,0.995,6.012829475787003,interval_width,standard_real,1.8597791194915771
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,9,4233261,0.92,3.0281583599117585,interval_width,standard_reference,0.3674435615539551
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,9,4233261,0.96,3.5082582763698884,interval_width,spi_fast_form,0.60749351978302
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,9,4233261,0.98,4.3228565018488,interval_width,rsa_cp_barycentric_ot_betabin,1.014792632522476
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,10,9504621,0.985,5.218469306598418,interval_width,standard_real,1.3809894323349
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,10,9504621,0.925,2.879108324418776,interval_width,standard_reference,0.21130894124507904
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,10,9504621,0.925,2.89528481639456,interval_width,spi_fast_form,0.2193971872329712
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,10,9504621,0.98,3.848708159115548,interval_width,rsa_cp_barycentric_ot_betabin,0.6961088585934655
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,11,5118207,0.975,3.629555171105312,interval_width,standard_real,0.6885734796524048
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,11,5118207,0.92,2.700055544945644,interval_width,standard_reference,0.2238236665725708
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,11,5118207,0.92,2.7050563746422993,interval_width,spi_fast_form,0.22632408142089844
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,11,5118207,0.855,2.318071264493134,interval_width,rsa_cp_barycentric_ot_betabin,0.03283152634631541
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,12,8690244,0.935,3.6342964960914106,interval_width,standard_real,0.5820589065551758
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,12,8690244,0.89,2.957659800229594,interval_width,standard_reference,0.24374055862426758
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,12,8690244,0.895,2.963490565000102,interval_width,spi_fast_form,0.24665594100952148
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,12,8690244,0.895,2.972480925274611,interval_width,rsa_cp_barycentric_ot_betabin,0.25115112114677574
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,13,8229426,0.835,2.677533068556804,interval_width,standard_real,0.074007548391819
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,13,8229426,0.86,2.8735305898380465,interval_width,standard_reference,0.17200630903244019
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,13,8229426,0.86,2.901106678743381,interval_width,spi_fast_form,0.18579435348510742
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,13,8229426,0.825,2.529517971773166,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,14,348525,0.95,3.390299641470192,interval_width,standard_real,0.5313440561294556
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,14,348525,0.94,3.0953255528013686,interval_width,standard_reference,0.38385701179504395
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,14,348525,0.94,3.1043420666258315,interval_width,spi_fast_form,0.3883652687072754
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,14,348525,0.92,2.934994018597113,interval_width,rsa_cp_barycentric_ot_betabin,0.3036912446929159
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,15,8277021,0.825,2.4925759213382843,interval_width,standard_real,0.09702539443969727
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,15,8277021,0.895,2.9663827794010285,interval_width,standard_reference,0.33392882347106934
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,15,8277021,0.895,2.9698198216373566,interval_width,spi_fast_form,0.3356473445892334
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,15,8277021,0.79,2.29852513245889,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,16,3118312,0.985,3.8308659983146938,interval_width,standard_real,0.7379077672958374
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,16,3118312,0.93,2.8892830801475795,interval_width,standard_reference,0.2671163082122803
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,16,3118312,0.93,2.8892897558677944,interval_width,spi_fast_form,0.2671196460723877
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,16,3118312,0.91,2.712341629922109,interval_width,rsa_cp_barycentric_ot_betabin,0.17864558309954534
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,17,4091990,0.895,2.8119765804742927,interval_width,standard_real,0.23263780772686005
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,17,4091990,0.905,2.999511359784519,interval_width,standard_reference,0.32640519738197327
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,17,4091990,0.905,3.0032089339231605,interval_width,spi_fast_form,0.32825398445129395
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,17,4091990,0.875,2.6231898423124416,interval_width,rsa_cp_barycentric_ot_betabin,0.1382444386459346
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,18,2569919,0.955,3.78360496011097,interval_width,standard_real,0.6926469802856445
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,18,2569919,0.9,2.891395907071419,interval_width,standard_reference,0.24654245376586914
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,18,2569919,0.9,2.8969741865666583,interval_width,spi_fast_form,0.24933159351348877
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,18,2569919,0.93,3.2982691836489613,interval_width,rsa_cp_barycentric_ot_betabin,0.4499790920546399
+Figure 9,MEPS,40-60,SCP,0.1,0.9,15,1000,200,19,5495936,0.745,2.223426430041436,interval_width,standard_real,-0.012804941274225712
+Figure 9,MEPS,40-60,Synthetic-only,0.1,0.9,15,1000,200,19,5495936,0.865,2.709141731748823,interval_width,standard_reference,0.23005270957946777
+Figure 9,MEPS,40-60,SPI,0.1,0.9,15,1000,200,19,5495936,0.875,2.73466324854875,interval_width,spi_fast_form,0.24281346797943115
+Figure 9,MEPS,40-60,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,19,5495936,0.81,2.2490363125898876,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,0,2492284,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,0,2492284,0.96,5.052283044023498,interval_width,standard_reference,1.1516714096069336
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,0,2492284,0.96,5.0839736415576775,interval_width,spi_fast_form,1.1675167083740234
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,0,2492284,0.84,3.455918329930014,interval_width,rsa_cp_barycentric_ot_betabin,0.3534890525601916
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,1,6438288,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,1,6438288,0.95,4.9979648073751015,interval_width,standard_reference,1.1246185302734375
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,1,6438288,0.955,5.019630380495219,interval_width,spi_fast_form,1.135451316833496
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,1,6438288,0.865,4.212192566609887,interval_width,rsa_cp_barycentric_ot_betabin,0.7317324098908298
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,2,275592,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,2,275592,0.96,5.2333987128778245,interval_width,standard_reference,1.2376102209091187
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,2,275592,0.96,5.238108195070818,interval_width,spi_fast_form,1.2399649620056152
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,2,275592,0.8,3.0691402513584785,interval_width,rsa_cp_barycentric_ot_betabin,0.15548099014944589
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,3,2731692,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,3,2731692,0.94,5.153409952442744,interval_width,standard_reference,1.2157933712005615
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,3,2731692,0.94,5.164248937885859,interval_width,spi_fast_form,1.2212128639221191
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,3,2731692,0.71,2.95014828541894,interval_width,rsa_cp_barycentric_ot_betabin,0.11416253768865955
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,4,1441594,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,4,1441594,0.935,5.019213861238386,interval_width,standard_reference,1.1246185302734375
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,4,1441594,0.98,6.059927171480085,interval_width,spi_fast_form,1.644975185394287
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,4,1441594,0.995,7.045705348996693,interval_width,rsa_cp_barycentric_ot_betabin,2.1378642741525904
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,5,7551662,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,5,7551662,0.95,5.056514822312165,interval_width,standard_reference,1.178795337677002
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,5,7551662,0.95,5.072581373520661,interval_width,spi_fast_form,1.18682861328125
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,5,7551662,0.855,3.5201738880868074,interval_width,rsa_cp_barycentric_ot_betabin,0.41062487056432284
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,6,4731878,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,6,4731878,0.965,5.232582232178829,interval_width,standard_reference,1.2680461406707764
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,6,4731878,0.965,5.260418554963253,interval_width,spi_fast_form,1.2819643020629883
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,6,4731878,0.965,5.261926288303133,interval_width,rsa_cp_barycentric_ot_betabin,1.2827181687329288
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,7,9486483,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,7,9486483,0.945,5.039386194127437,interval_width,standard_reference,1.2208380699157715
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,7,9486483,0.95,5.0729304961141315,interval_width,spi_fast_form,1.2376102209091187
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,7,9486483,0.845,3.8878982143033833,interval_width,rsa_cp_barycentric_ot_betabin,0.6450940800037449
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,8,857393,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,8,857393,0.94,4.985815174817398,interval_width,standard_reference,1.144543170928955
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,8,857393,0.94,5.05108798289235,interval_width,spi_fast_form,1.1771795749664307
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,8,857393,0.765,3.0811736179965137,interval_width,rsa_cp_barycentric_ot_betabin,0.19222239251851225
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,9,4233261,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,9,4233261,0.94,5.234403675523936,interval_width,standard_reference,1.2434258460998535
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,9,4233261,0.94,5.246714657274424,interval_width,spi_fast_form,1.2495813369750977
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,9,4233261,0.94,5.0098003899986665,interval_width,rsa_cp_barycentric_ot_betabin,1.1311242033372189
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,10,9504621,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,10,9504621,0.93,5.233884213186102,interval_width,standard_reference,1.144543170928955
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,10,9504621,0.93,5.248140690542059,interval_width,spi_fast_form,1.1516714096069336
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,10,9504621,0.98,5.990242016462149,interval_width,rsa_cp_barycentric_ot_betabin,1.5227220725669792
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,11,5118207,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,11,5118207,0.975,5.234492716121604,interval_width,standard_reference,1.232692003250122
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,11,5118207,0.975,5.268271383571555,interval_width,spi_fast_form,1.2495813369750977
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,11,5118207,0.96,4.599897368631086,interval_width,rsa_cp_barycentric_ot_betabin,0.9153943295048628
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,12,8690244,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,12,8690244,0.955,5.36397714282648,interval_width,standard_reference,1.2915170192718506
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,12,8690244,0.955,5.373853870884341,interval_width,spi_fast_form,1.2964553833007812
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,12,8690244,0.9,4.405719451344489,interval_width,rsa_cp_barycentric_ot_betabin,0.8123881735308548
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,13,8229426,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,13,8229426,0.92,5.1846817462725445,interval_width,standard_reference,1.2495813369750977
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,13,8229426,0.92,5.208580347804527,interval_width,spi_fast_form,1.2615306377410889
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,13,8229426,0.73,2.747966956186232,interval_width,rsa_cp_barycentric_ot_betabin,0.031223941931941075
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,14,348525,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,14,348525,0.97,5.286085470403777,interval_width,standard_reference,1.2399649620056152
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,14,348525,0.97,5.2991877634183036,interval_width,spi_fast_form,1.2465161085128784
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,14,348525,0.935,4.669834580455281,interval_width,rsa_cp_barycentric_ot_betabin,0.9318395170313665
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,15,8277021,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,15,8277021,0.935,4.977230530506058,interval_width,standard_reference,1.144543170928955
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,15,8277021,0.935,4.998054962879105,interval_width,spi_fast_form,1.1549553871154785
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,15,8277021,0.895,4.525057171182094,interval_width,rsa_cp_barycentric_ot_betabin,0.9184564912669729
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,16,3118312,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,16,3118312,0.96,5.2145493391103805,interval_width,standard_reference,1.1880838871002197
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,16,3118312,0.965,5.254704749876982,interval_width,spi_fast_form,1.2081615924835205
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,16,3118312,0.915,4.150252419295892,interval_width,rsa_cp_barycentric_ot_betabin,0.6559354271929749
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,17,4091990,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,17,4091990,0.975,5.141856589585368,interval_width,standard_reference,1.2399649620056152
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,17,4091990,0.98,5.484346785813395,interval_width,spi_fast_form,1.411210060119629
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,17,4091990,0.98,5.48390663678658,interval_width,rsa_cp_barycentric_ot_betabin,1.4109899856062216
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,18,2569919,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,18,2569919,0.965,5.005192690059484,interval_width,standard_reference,1.1112890243530273
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,18,2569919,0.965,5.053012304469885,interval_width,spi_fast_form,1.1351988315582275
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,18,2569919,0.955,4.7554023511323225,interval_width,rsa_cp_barycentric_ot_betabin,0.9863938548894471
+Figure 9,MEPS,60-100,SCP,0.05,0.95,15,1000,200,19,5495936,1.0,inf,interval_width,standard_real,inf
+Figure 9,MEPS,60-100,Synthetic-only,0.05,0.95,15,1000,200,19,5495936,0.975,5.150779173308693,interval_width,standard_reference,1.2157933712005615
+Figure 9,MEPS,60-100,SPI,0.05,0.95,15,1000,200,19,5495936,0.975,5.161618158751808,interval_width,spi_fast_form,1.2212128639221191
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.05,0.95,15,1000,200,19,5495936,0.935,4.5672594940043325,interval_width,rsa_cp_barycentric_ot_betabin,0.9240335315483812
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,0,2492284,0.78,3.3745042133831884,interval_width,standard_real,0.4943079948425293
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,0,2492284,0.905,4.48447049145936,interval_width,standard_reference,1.0492911338806152
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,0,2492284,0.905,4.488751773884287,interval_width,spi_fast_form,1.0514317750930786
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,0,2492284,0.755,3.3010313464884904,interval_width,rsa_cp_barycentric_ot_betabin,0.45757156139518007
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,1,6438288,0.95,5.401416827253997,interval_width,standard_real,1.5014159679412842
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,1,6438288,0.88,4.463636447004974,interval_width,standard_reference,1.0325257778167725
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,1,6438288,0.88,4.464440394453704,interval_width,spi_fast_form,1.0329277515411377
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,1,6438288,0.83,3.528807734264592,interval_width,rsa_cp_barycentric_ot_betabin,0.5651114214465819
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,2,275592,0.88,4.257539992290549,interval_width,standard_real,0.9240827560424805
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,2,275592,0.92,4.592007880168967,interval_width,standard_reference,1.0913166999816895
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,2,275592,0.92,4.606821303325705,interval_width,spi_fast_form,1.0987234115600586
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,2,275592,0.68,2.5067736515929817,interval_width,rsa_cp_barycentric_ot_betabin,0.04869958569369666
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,3,2731692,0.715,3.1011551779601723,interval_width,standard_real,0.3578455448150635
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,3,2731692,0.89,4.4883276385162025,interval_width,standard_reference,1.0514317750930786
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,3,2731692,0.89,4.4982623022887855,interval_width,spi_fast_form,1.0563991069793701
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,3,2731692,0.595,2.3854640883300453,interval_width,rsa_cp_barycentric_ot_betabin,0.0
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,4,1441594,1.0,8.05150159903802,interval_width,standard_real,2.8203256130218506
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,4,1441594,0.89,4.465823498452083,interval_width,standard_reference,1.0274865627288818
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,4,1441594,0.89,4.476196613991633,interval_width,spi_fast_form,1.0326731204986572
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,4,1441594,0.985,6.769189487096667,interval_width,rsa_cp_barycentric_ot_betabin,2.179169557051173
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,5,7551662,0.905,4.42986105926102,interval_width,standard_real,1.0358307361602783
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,5,7551662,0.94,4.685423364711459,interval_width,standard_reference,1.163611888885498
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,5,7551662,0.94,4.700590601039584,interval_width,spi_fast_form,1.1711955070495605
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,5,7551662,0.825,3.5352789347710907,interval_width,rsa_cp_barycentric_ot_betabin,0.5885396739153128
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,6,4731878,0.98,6.235947146200342,interval_width,standard_real,1.9409525394439697
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,6,4731878,0.93,4.589990629934473,interval_width,standard_reference,1.1179742813110352
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,6,4731878,0.93,4.59438325383584,interval_width,spi_fast_form,1.1201705932617188
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,6,4731878,0.9,4.2854469126964565,interval_width,rsa_cp_barycentric_ot_betabin,0.9657024226920273
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,7,9486483,0.87,4.132139715206576,interval_width,standard_real,0.9330151081085205
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,7,9486483,0.89,4.421227964413119,interval_width,standard_reference,1.077559232711792
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,7,9486483,0.89,4.442516359341098,interval_width,spi_fast_form,1.0882034301757812
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,7,9486483,0.845,3.9177507669842693,interval_width,rsa_cp_barycentric_ot_betabin,0.8258206339973667
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,8,857393,0.835,3.8504414218699092,interval_width,standard_real,0.7438454627990723
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,8,857393,0.91,4.516855205897009,interval_width,standard_reference,1.077052354812622
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,8,857393,0.91,4.528553928736365,interval_width,spi_fast_form,1.0829017162322998
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,8,857393,0.71,2.8454716691455597,interval_width,rsa_cp_barycentric_ot_betabin,0.24136058643689795
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,9,4233261,0.96,6.336618943409994,interval_width,standard_real,1.9775843620300293
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,9,4233261,0.895,4.617398781972006,interval_width,standard_reference,1.1179742813110352
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,9,4233261,0.895,4.625975175099447,interval_width,spi_fast_form,1.1222624778747559
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,9,4233261,0.9,4.745218515773884,interval_width,rsa_cp_barycentric_ot_betabin,1.1818841482119744
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,10,9504621,0.995,8.046107492413139,interval_width,standard_real,2.7553635835647583
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,10,9504621,0.875,4.665591201748466,interval_width,standard_reference,1.0651054382324219
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,10,9504621,0.875,4.674622974361991,interval_width,spi_fast_form,1.0696213245391846
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,10,9504621,0.795,3.564389182246056,interval_width,rsa_cp_barycentric_ot_betabin,0.5145044284812162
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,11,5118207,0.99,6.163726300242124,interval_width,standard_real,1.877281904220581
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,11,5118207,0.955,4.6649527254130225,interval_width,standard_reference,1.1278951168060303
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,11,5118207,0.955,4.670436829569517,interval_width,spi_fast_form,1.1306371688842773
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,11,5118207,0.845,3.573715832390229,interval_width,rsa_cp_barycentric_ot_betabin,0.582276670294634
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,12,8690244,0.915,4.905091185178608,interval_width,standard_real,1.2575693130493164
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,12,8690244,0.9,4.678198952283711,interval_width,standard_reference,1.1441231966018677
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,12,8690244,0.9,4.698328871335835,interval_width,spi_fast_form,1.1541881561279297
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,12,8690244,0.86,4.0768233145978074,interval_width,rsa_cp_barycentric_ot_betabin,0.8434353777589165
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,13,8229426,0.75,3.0035990536923056,interval_width,standard_real,0.3134235143661499
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,13,8229426,0.89,4.612700587582076,interval_width,standard_reference,1.1179742813110352
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,13,8229426,0.89,4.621276980709517,interval_width,spi_fast_form,1.1222624778747559
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,13,8229426,0.735,2.7229659809145734,interval_width,rsa_cp_barycentric_ot_betabin,0.17310697797728336
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,14,348525,0.95,4.963878800183302,interval_width,standard_real,1.2575693130493164
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,14,348525,0.95,4.716897179394728,interval_width,standard_reference,1.1340785026550293
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,14,348525,0.95,4.78836600950337,interval_width,spi_fast_form,1.1698129177093506
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,14,348525,0.92,4.386566279716791,interval_width,rsa_cp_barycentric_ot_betabin,0.968913052816061
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,15,8277021,0.905,4.802493373701582,interval_width,standard_real,1.2255854606628418
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,15,8277021,0.855,4.497306625196943,interval_width,standard_reference,1.0729920864105225
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,15,8277021,0.855,4.500792304823408,interval_width,spi_fast_form,1.0747349262237549
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,15,8277021,0.79,4.02385926744002,interval_width,rsa_cp_barycentric_ot_betabin,0.8362684075320619
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,16,3118312,0.94,4.846735352699179,interval_width,standard_real,1.2016515731811523
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,16,3118312,0.93,4.573643082801718,interval_width,standard_reference,1.0651054382324219
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,16,3118312,0.93,4.579926842872519,interval_width,spi_fast_form,1.0682473182678223
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,16,3118312,0.925,4.455657640744512,interval_width,rsa_cp_barycentric_ot_betabin,1.0061127172038182
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,17,4091990,0.995,6.032827356477501,interval_width,standard_real,1.8495888710021973
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,17,4091990,0.935,4.660873392244103,interval_width,standard_reference,1.163611888885498
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,17,4091990,0.935,4.66243169607711,interval_width,spi_fast_form,1.164391040802002
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,17,4091990,0.97,5.298464857690282,interval_width,rsa_cp_barycentric_ot_betabin,1.4824076216085884
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,18,2569919,0.97,5.606207890601363,interval_width,standard_real,1.6005897521972656
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,18,2569919,0.925,4.403017563910689,interval_width,standard_reference,0.9989945888519287
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,18,2569919,0.925,4.409322304816451,interval_width,spi_fast_form,1.0021469593048096
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,18,2569919,0.905,4.1669432849222,interval_width,rsa_cp_barycentric_ot_betabin,0.8809574493576847
+Figure 9,MEPS,60-100,SCP,0.1,0.9,15,1000,200,19,5495936,0.99,6.71915491411346,interval_width,standard_real,2.1765174865722656
+Figure 9,MEPS,60-100,Synthetic-only,0.1,0.9,15,1000,200,19,5495936,0.93,4.512104113789974,interval_width,standard_reference,1.0729920864105225
+Figure 9,MEPS,60-100,SPI,0.1,0.9,15,1000,200,19,5495936,0.93,4.542316039296566,interval_width,spi_fast_form,1.0880980491638184
+Figure 9,MEPS,60-100,RSA-CP (OT) (Ours),0.1,0.9,15,1000,200,19,5495936,0.78,3.252427668212619,interval_width,rsa_cp_barycentric_ot_betabin,0.44315386362184545

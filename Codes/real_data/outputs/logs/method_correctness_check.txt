@@ -1,0 +1,7 @@
+RSA-CP real-data method correctness check
+
+PASS: RSA-CP uses barycentric OT
+PASS: RSA-CP uses Beta-Binomial rank window
+PASS: SplitConformalRealPlusOTScore calls RSA-CP decision/quantile helpers
+PASS: MEPS helper uses CQR scores
+PASS: ImageNet helper uses APS scores

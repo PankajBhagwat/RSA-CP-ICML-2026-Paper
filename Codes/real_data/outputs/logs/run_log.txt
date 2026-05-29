@@ -1,0 +1,17 @@
+real_data_root: .
+output: outputs
+Loaded ImageNet: X_min=(38502, 1000), X_ref=(116000, 1000)
+Precomputing ImageNet APS components on existing loaded probabilities.
+Figure 4: ImageNet n_test=15000, n_seeds=20, n_cal grid=[15], N grid=[1000]
+Figure 5: ImageNet n_test=15000, n_seeds=20, n_cal grid=[10, 15, 20, 30, 40, 50], N grid=[1000]
+Figure 8: ImageNet n_test=15000, n_seeds=20, n_cal grid=[15], N grid=[100, 250, 500, 1000, 1500, 2000]
+figure9: MEPS age=0-20, alpha=0.05, n_test=200
+figure9: MEPS age=0-20, alpha=0.1, n_test=200
+figure9: MEPS age=20-40, alpha=0.05, n_test=200
+figure9: MEPS age=20-40, alpha=0.1, n_test=200
+figure9: MEPS age=40-60, alpha=0.05, n_test=200
+figure9: MEPS age=40-60, alpha=0.1, n_test=200
+figure9: MEPS age=60-100, alpha=0.05, n_test=200
+figure9: MEPS age=60-100, alpha=0.1, n_test=200
+Figure 10 is optional in this real-data release and is not run by default.
+Finished in 14.5 seconds.

@@ -1,0 +1,8 @@
+original X_minority shape: (4833, 2)
+X_minority_2 shape: (4833, 2)
+X_majority_2 shape: (5474, 2)
+endpoint info minority: {'original_shape': (4833, 2), 'alpha': 0.1, 'selected_indices': None, 'selected_quantiles': None}
+endpoint info majority: {'original_shape': (5474, 2), 'alpha': 0.1, 'selected_indices': None, 'selected_quantiles': None}
+first few CQR scores: [-1.339224, -0.251015, -0.691797, -2.329949, -1.463514]
+score summary S_real: min=-2.329949, max=0.019459, mean=-0.765188
+score summary S_ref: min=-1.148159, max=0.006367, mean=-0.408333

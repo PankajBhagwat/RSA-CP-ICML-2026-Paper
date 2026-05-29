@@ -1,0 +1,7 @@
+X_minority shape: (38502, 1000)
+X_majority shape: (116000, 1000)
+label range: minority=(0, 994), majority=(0, 994)
+first few APS scores (real, epsilon=0.5): [0.4991750121116638, 0.4123840034008026, 0.49410900473594666, 0.4992089867591858, 0.49724000692367554]
+first few APS scores (ref, epsilon=0.5): [0.3672420084476471, 0.9989230036735535, 0.9477689862251282, 0.2770400047302246, 0.35280799865722656]
+S_real summary epsilon=0.5: min=0.412384, max=0.499209, mean=0.480423
+S_ref summary epsilon=0.5: min=0.277040, max=0.998923, mean=0.588757
